@@ -1,0 +1,11 @@
+# 安装程序生成的备份（含原始未修改的游戏文件，不应入库）
+*.backup
+
+# 系统与编辑器
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 临时/日志
+*.log
+*.tmp

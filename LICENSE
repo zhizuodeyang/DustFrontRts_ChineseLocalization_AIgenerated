@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 zhizuodeyang
+Copyright (c) 2026 Dust Front RTS Demo 简体中文汉化补丁 贡献者
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+注意：本许可仅覆盖本仓库中的脚本与文档。
+游戏资源文件（Dust Front RTS_Data/resources.assets）的著作权归原作者 / 发行商所有，
+本补丁仅为对其进行本地化修改后的产物，不主张任何权利。

@@ -1,0 +1,1289 @@
+序号,键名,英文原文,俄文原文,中文翻译
+1,otherLocalsFuture,Localization to other languages is under development.,Локализация на другие языки в разработке.,其他语言的本地化正在开发中。
+2,task-defeatCondition-0,"If your buildings are destroyed, you will be defeated.",Если ваши здания будут уничтожены. Вы потерпите поражение.,若您的建筑被全部摧毁，您将遭到失败。
+3,task-destroyProd,Destroy enemy factories:,Разрушьте заводы врага:,摧毁敌方工厂：
+4,task-captPoints,Hold the points:,Удерживайте точки:,守住据点：
+5,task-destroyLastUnits,Finish off the survivors:,Добейте выживших:,歼灭残敌：
+6,demoFaction-rebels,Rebels,Мятежники,叛军
+7,demoFaction-rebels-info,"A more classic faction with focus on mobile and light units.
+Excellent as a starting opponent, as they are inherently weaker in firepower.","Более классическая фракция с упором на мобильные и легкие юниты.
+Отлично подходит для стартового противника, так как заведомо слабее в огневой мощи.","较为经典的阵营，以机动性与轻型单位为主。
+非常适合作为初始对手，其火力本就偏弱。"
+8,demoFaction-mutants,Mutants,Мутанты,变异体
+9,demoFaction-mutants-info,"Constantly forcing close combat and heavy assault units create a serious obstacle.
+For experienced commanders.","Постоянное навязывание ближнего боя и тяжелые штурмовые юниты создают серьёзную преграду.
+Для проверенных командиров.","不断逼迫近战，配合重型突击单位，构成严重阻碍。
+适合久经考验的指挥官。"
+10,demo-selectEnemyFaction,Choose an opponent,Выберите противника,选择对手
+11,version,Version:,Версия:,版本：
+12,volume-master,Master,Мастер,主音量
+13,volume-music,Music,Музыка,音乐
+14,volume-voices,Voices,Голоса,语音
+15,volume-sfx,Effects,Эффекты,音效
+16,volume,Sound,Звук,声音
+17,camera,Camera,Камера,镜头
+18,borderCameraSpeed,Edge scroll speed,Скорость по краям,边缘滚动速度
+19,mouseCameraSpeed,Speed,Скорость,速度
+20,vsync,Vertical Sync.,Верт. Синх.,垂直同步
+21,fpsLock,60fps limit,60fps лимит,60fps 限制
+22,fullScreen,Full screen,Полный экран,全屏
+23,cameraInterpolation,Camera interpolation,Интерполяция камеры,镜头插值
+24,cameraShake,Camera shake,Тряска камеры,镜头抖动
+25,brightness,Brightness,Яркость,亮度
+26,graphics,Graphics,Графика,画面
+27,res-widescreen-guid,If the standard resolution doesn't work: use the config in the root of the game. Parameter: override res,Если не работает стандартное разрешение: используйте конфиг в корне игры. Параметр: override res,若标准分辨率无法生效：请使用游戏根目录下的配置文件。参数：override res
+28,controls,Controls,Управление,操作
+29,controls-dev,Changing hotkeys is in development.,Изменение горячих клавиш находится в разработке.,快捷键自定义功能正在开发中。
+30,controls-text,"Shift + Order — Adds an order to the queue.
+Shift + Left-click on a unit/select box — Add to selected.
+Ctrl + Left-click on a unit/select box — Remove from selected.
+
+T / Ctrl + 1...9 — Add to hotkey group.
+
+Ctrl + Q/A/Z — Hotkey for local equipment.
+
+A (no context) — Attack on the move.
+P — Patrol.
+G (Hold) — Reverse.
+B — General repair.
+S — Stop order.
+
+E — First ability.
+R — Second ability.
+
+Tab — Select from selected units.
+Tilde (~) — Switch options tab.
+Q — Option 1.
+W — Option 2.
+A (in the context of options) — Option 3.
+S — Option 4.
+Z — Option 5.
+X — Option 6.
+D — Option 7.
+C — Option 8.
+F — Option 9.
+V — Option 10.
+
+F1 — Select all builders.
+F2 — Select all combat units.
+F3 — Select all units.
+
+Space — Pause tactically.
+Esc — Pause.
+I — Hide interface.
+Alt + Scroll wheel — Zoom in.
+Alt + Hold down the scroll wheel — Rotate the camera.","Shift + Приказ — добавляет приказ в очередь.
+Shift + ЛКМ по юниту/выделение рамкой — добавить к выделенным.
+Ctrl + ЛКМ по юниту/выделение рамкой — убрать из выделенных.
+
+T / Ctrl + 1...9 — добавить в группу быстрого доступа.
+
+Ctrl + Q/A/Z — горячая клавиша для локального снаряжения.
+
+A (без контекста) — атака в движении.
+P — патруль.
+G (Зажать) — задний ход.
+B — генеральный ремонт.
+S — стоп-приказ.
+
+E — первая способность.
+R — вторая способность.
+
+Tab — Выбор среди выбранных юнитов.
+Tilde (~) — смена вкладки опций.
+Q — опция 1.
+W — опция 2.
+A (в контексте опций) — опция 3.
+S — опция 4.
+Z — опция 5.
+X — опция 6.
+D — опция 7.
+C — опция 8.
+F — опция 9.
+V — опция 10.
+
+F1 — выбрать всех строителей.
+F2 — выбрать все боевые юниты.
+F3 — выбрать всех юнитов.
+
+Space — тактическая пауза.
+Esc — пауза.
+I — скрыть интерфейс.
+Alt + прокрутка колеса — приближение камеры.
+Alt + зажатое колесо — вращение камеры.","Shift + 指令 — 将指令加入队列。
+Shift + 左键点击单位/框选 — 加入当前选中。
+Ctrl + 左键点击单位/框选 — 从当前选中移除。
+
+T / Ctrl + 1...9 — 加入快捷键编队。
+
+Ctrl + Q/A/Z — 本地装备的快捷键。
+
+A（无上下文）— 行进间攻击。
+P — 巡逻。
+G（按住）— 倒车。
+B — 全面维修。
+S — 停止指令。
+
+E — 一号技能。
+R — 二号技能。
+
+Tab — 在已选单位之间切换选择。
+波浪号（~）— 切换选项页。
+Q — 选项 1。
+W — 选项 2。
+A（在选项上下文中）— 选项 3。
+S — 选项 4。
+Z — 选项 5。
+X — 选项 6。
+D — 选项 7。
+C — 选项 8。
+F — 选项 9。
+V — 选项 10。
+
+F1 — 选择所有建造单位。
+F2 — 选择所有作战单位。
+F3 — 选择所有单位。
+
+空格 — 战术暂停。
+Esc — 暂停。
+I — 隐藏界面。
+Alt + 滚轮 — 拉近镜头。
+Alt + 按住滚轮 — 旋转镜头。"
+31,endStats-stats,Battle statistics:,Статистика битвы:,战斗统计：
+32,endStats-time,Time:,Время:,用时：
+33,endStats-lossesPeople,Casualties:,Потери в людях:,人员损失：
+34,endStats-shots,Shots from large calibers:,Выстрелов из крупных калибров:,大口径射击次数：
+35,endStats-lossesUnits,Unit losses:,Потери в юнитах:,单位损失：
+36,endStats-lossesSupply,Losses in supply units:,Потери в у.е. снабжения:,补给单位损失：
+37,endStats-killedUnits,Enemy units killed:,Убито вражеских юнитов:,击毁敌方单位：
+38,endStats-killedSupply,Enemies killed (in supply units):,Убито врагов (в у.е. снабжения):,歼敌（按补给单位计）：
+39,endStats-killedBuilds,Buildings destroyed:,Уничтожено зданий:,摧毁建筑：
+40,endStats-resCollected,Resources collected:,Ресурсов собрано:,采集资源：
+41,endStats-diffAndSize,Difficulty and scale:,Сложность и размер:,难度与规模：
+42,endMisson-victory,Victory,Победа,胜利
+43,endMisson-defeat,Defeat,Поражение,战败
+44,endMisson-retreat,Retreat,Отступление,撤退
+45,weather-meteorStart,Attention. Radar has detected debris falling from the stratosphere. Spread out.,Внимание. Радар обнаружил летящие обломки со стратосферы. Распределитесь.,注意。雷达探测到有碎片自平流层坠落。分散开来。
+46,weather-meteorEnd,There is no more debris on the radar.,Обломков на радаре больше нет.,雷达上已无碎片。
+47,weather-rainStart,"Data received from the meteorological center. A strong storm is expected, prepare yourselves.","Поступили данные с метеорологического центра. Ожидается сильный шторм, приготовьтесь.",已收到气象中心的数据。预计将出现强风暴，做好准备。
+48,weather-toxicStart,Sensors have detected an approaching acid emission. Take cover inside buildings.,"Счетчики заметили приближение кислотного выброса. Занимайте здания, чтобы укрыться. ",传感器侦测到酸性喷发正在逼近。进入建筑内躲避。
+49,weather-toxicEnd,"The emission is over, you can breathe now.","Выброс прошел, можно выдохнуть.",喷发已经结束，可以松口气了。
+50,missionText-reinforcements,Reinforcements on the way.,Ваше подкрепление в пути.,您的增援正在途中。
+51,missionText-reinforcementsEnemy,The enemy called for reinforcements.,Противник призвал подкрепление.,敌人呼叫了增援。
+52,missionText-endSurvivors,The enemy still has a significant group of troops. FINISH OFF THE SURVIVORS.,У противника осталась существенная группа войск. ДОБЕЙТЕ ВЫЖИВШИХ.,敌方仍有成建制的部队。歼灭残敌。
+53,reinforcementsInMove,Reinforcements en route,Подкрепление в пути,增援途中
+54,eta-tacticalAbility,Estimated time:,Расчетное время:,预计时间：
+55,placing-repos,Relocate,Переместить,迁移
+56,placing-blockedExit,Exit blocked,Выход мешает,出口被阻挡
+57,placing-noSpace,No space,Нет места,空间不足
+58,placing-mineralsNear,Too close to the minerals,Слишком близко к минералам,距离矿脉太近
+59,placing-terrainNotFlat,Rough terrain,Неровный ландшафт,地形崎岖
+60,placing-otherPlans,Different layout interferes,Другая планировка мешает,其他建造方案冲突
+61,placing-isOutside,Outside build zone.,Не в зоне строительства,不在建造区内。
+62,placing-isOutside2,Outside zone.,Не в зоне,不在区域内。
+63,placing-onTarget,Placing target:,Размещается на объекте:,放置目标：
+64,selectObject,Select object,Выделите объект,选择对象
+65,mainmenu,Main menu,Главное меню,主菜单
+66,continue,Continue,Продолжить,继续
+67,no,No,Нет,否
+68,yes,Yes,Да,是
+69,next,Next,Далее,下一步
+70,save,Save,Сохранить,保存
+71,start,Launch,Запуск,启动
+72,play,Play,Играть,开始游戏
+73,exit,Exit,Выход,退出
+74,settings,Settings,Настройки,设置
+75,genRepairStarted,Repair started,Ремонт начат,维修开始
+76,genRepairStoped,Repair canceled,Отмена ремонта,维修已取消
+77,genRepairNoDamage,No damage,Нет повреждений,无损伤
+78,fantomTip,Right click to cancel.,Нажмите ПКМ для отмены.,右键点击取消。
+79,aim-gui-rear,Encounter angle: Rear/side,Угол встречи: Корма/борт,命中角度：尾部/侧面
+80,aim-gui-front,Encounter angle: Front,Угол встречи: Лоб,命中角度：正面
+81,or,Or,Или,或
+82,object,Object,Объект,对象
+83,doctrine,Global upgrades/Doctrine,Глобальное улучшение/доктрина,全局升级/学说
+84,affects,Affects:,Влияет на:,影响：
+85,localUpgrade,Local equipment,Локальное снаряжение,本地装备
+86,localUpgradeHave,This equipment is available in:,Это снаряжение есть в:,此装备存在于：
+87,removeOptions,Removes options:,Убирает опции:,移除选项：
+88,addOptions,Adds options:,Добавляет опции:,新增选项：
+89,required,Required:,Требуется:,需求：
+90,availableUnits,Available units,Доступные юниты,可用单位
+91,startArmyLeftMenu-info,Select units from the menu on the left.,Выберите юнитов из меню слева.,从左侧菜单中选择单位。
+92,deploy-zones,Deployment zones,Зоны развёртывания,部署区
+93,deploy-reset,Reset,Сброс,重置
+94,deploy-startBattle,Start the battle,Начать сражение,开始战斗
+95,strikeGroups,Strike groups,Ударные группы,突击群
+96,curStrikeGroup,Current group,Текущая группа,当前突击群
+97,startArmy,Your strike force,Ваша ударная армия,你的突击部队
+98,startArmy-info,A starting army for early offensive or defensive operations.,Стартовая армия для ведения ранних наступлений или обороны.,用于早期进攻或防御作战的起始部队。
+99,slideTwhoInfo,Weapons and other >>>,Вооружение и другое >>>,武器及其他 >>>
+100,noStartWeapon,Object does not have standard weapons.,У объекта нет стандартного вооружения.,该单位没有标准武器。
+101,mainParams,Main characteristics:,Основные характеристики:,主要特性：
+102,antiAir,Anti-Air capabilities,Стрельба по воздуху,对空能力
+103,sizeType,Size type:,Тип размера:,体型：
+104,small,Small,Малый,小型
+105,medium,Medium,Средний,中型
+106,large,Large,Большой,大型
+107,special,Special,Особый,特殊
+108,armoreType,Armor type:,Тип брони:,装甲类型：
+109,vehicle,Vehicle,Техника,载具
+110,infantry,Infantry,Пехота,步兵
+111,building,Building,Здание,建筑
+112,hitpoints,Hit points,Прочность,结构值
+113,extraHitpoints,Additional hit points,Доп. прочность,额外结构值
+114,mainArmore,Main armor,Основная броня,主装甲
+115,rearArmore,Rear and side armor,Задняя и бортовая броня,后部与侧部装甲
+116,gasResist,Gas resistance,Сопротивление газам,抗毒气
+117,fireResist,Fire resistance,Сопротивление огню,抗火焰
+118,areaDmgResist,Area Damage Resistance,Сопр. урону по области,抗范围伤害
+119,movespeed,Movement speed,Скорость движения,移动速度
+120,rotatespeed,Turning speed,Скорость поворота,转向速度
+121,back,Back,Назад,返回
+122,mainWeapon,Main weaponry:,Основное вооружение:,主武器：
+123,defaultOptions,Standard options,Стандартные опции,标准选项
+124,basicOptions,Main options,Основные опции,主要选项
+125,sideOptions,Additional options,Дополнительные опции,额外选项
+126,mgWeapon,Rapid-fire weapons,Скорострельное вооружение,速射武器
+127,cannonWeapon,Heavy weapons,Тяжелое вооружение,重型武器
+128,projectileWeapon,Artillery weapons,Артиллерийское вооружение,火炮武器
+129,turretSpeed,Turret speed,Скорость турели,炮塔转速
+130,hullAim,Hull aiming,Наведение корпусом,车体瞄准
+131,cleanDmg,Pure damage,Чистый урон,真实伤害
+132,dmgToInfantry,Damage to infantry,Урон по пехоте,对步兵伤害
+133,dmgToVehicle,Damage to vehicles,Урон по технике,对载具伤害
+134,dmgToBuild,Damage to buildings,Урон по зданиям,对建筑伤害
+135,dmgRadius,Area Damage Radius,Радиус урона по области,范围伤害半径
+136,reloadTime,Reload time,Перезарядка атаки,装填时间
+137,reinforementsGm,Reinforcements from the global map.,Подкрепления с глобальной карты.,来自全球地图的增援。
+138,groupAssigned,Group assigned to number:,Группа назначена на цифру:,编队已指定至数字键：
+139,modeSreenSelect,Limiter switch,Переключатель ограничителя,限制器开关
+140,modeSreenSelect-info,If enabled: Selecting an object by double-clicking and then selecting units of the same type is limited to the screen boundaries.,Если включено: Выделение объекта двойным кликом и последующее выделение юнитов этого же типа ограничивается границами экрана.,若启用：双击选中某个单位后，再选中同类单位时将仅限当前屏幕范围内的单位。
+141,allSelect,Select all units.,Выделение всех юнитов.,选中所有单位。
+142,baseSelect,Select all construction buildings.,Выделение строительных зданий.,选中所有建造类建筑。
+143,fSelect-info,The second click will move you to the first one in the list.,Второй клик переместит вас к первому в списке.,再次点击将移动至列表中的第一个。
+144,allArmySelect,Select all combat units.,Выделение боевых юнитов.,选中所有作战单位。
+145,groupSelected,Group {0} is selected,Группа {0} выделена,已选中编队 {0}
+146,buildersSelected,Builders have been selected,Выделены строители,已选中建造单位
+147,armySelected,All combat units are selected,Выделены все боевые юниты,已选中所有作战单位
+148,allUnitsSelected,All units are selected,Выделены все юниты,已选中所有单位
+149,resourcesFull,Collector is full,Коллектор полон,采集器已满
+150,tacticalPause,Tactical pause,Тактическая пауза,战术暂停
+151,pause,Pause,Пауза,暂停
+152,anchor,Anchor,Якорь,锚点
+153,anchor-info,Your camera rotates around the position it was in when you set the anchor.,"Ваша камера вращается вокруг позиции, на которой она находилась в момент установки якоря.",镜头将围绕设置锚点时所在的位置旋转。
+154,reset,reset >,сброс >,重置 >
+155,noVision,No vision,Нет обзора,无视野
+156,materials,Materials,Материалы,物资
+157,materials-info,"The main resource. With this resource, you construct buildings and recruit armies.",Основной ресурс. С помощью этого ресурса вы строите здания и нанимаете армию.,主要资源。使用该资源建造建筑并招募部队。
+158,supply,Supply,Снабжение,补给
+159,supply-info,"Troop limit on the battlefield.
+
+Build a Supply Depot or Warehouse to increase the limit.
+
+There is no limit to expansion.","Лимит войск на поле боя.
+
+Постройте ""Депо снабжения"" или ""Склад снабжения"", для расширения лимита.
+
+Нет ограничения на расширение.","战场上的部队上限。
+
+建造补给站或仓库以提高上限。
+
+扩张没有上限。"
+160,gears,Parts,Детали,零件
+161,gears-info,This resource is required for the production of high-tech units and buildings. It is primarily replenished from the global map.,"Этот ресурс требуется для производства высокотехнологичных юнитов и зданий. В основном, восполняется с глобальной карты.",生产高科技单位与建筑所需的资源。主要通过全球地图补充。
+162,energyPower,Energy,Энергия,电力
+163,energyPower-info,"Your base's network capacity. If the value is negative (insufficient), production slows significantly and turrets stop working.","Сетевая мощность вашей базы. При отрицательном значении (нехватке), производство сильно замедляется, а турели перестают работать.",基地的电网功率。若数值为负（电力不足），生产将大幅减速，炮塔也会停止运转。
+164,sirenaToggle,Siren switch,Переключатель сирены,警笛开关
+165,cameraReset,Reset camera,Сброс камеры,重置镜头
+166,optionsToBuild,Switching tabs,Переключение вкладки,切换标签页
+167,optionsToBuild-info,This object has 2 tabs with options. Click to switch.,Этот объект имеет 2 вкладки с опциями. Нажмите для переключения.,该单位有 2 个选项标签页。点击进行切换。
+168,repairGlobal,Repair,Ремонт,维修
+169,repairGlobal-info,Allows you to repair the selected static object. Repairs cost materials. The current number of objects being repaired is shown above.,Позволяет отремонтировать выбранный статический объект. Ремонт стоит материалы. Сверху указано текущее количество ремонтируемых объектов.,可维修选中的静态建筑。维修消耗物资。上方显示当前正在维修的建筑数量。
+170,prodPause,Production pause,Пауза производства,暂停生产
+171,prodPause-info,Puts production on pause.,Ставит производство на паузу.,将生产置于暂停状态。
+172,prodLoop,Cycle production,Зациклить производство,循环生产
+173,prodLoop-info,The production queue loops. The produced unit will be added to the queue immediately after resources become available for the unit in the queue after it.,"Ваша очередь будет зациклена. Произведённый юнит встанет в очередь сразу после того, как появятся ресурсы на юнита в очереди после него.",生产队列将被循环。已产出单位会在其后队列中单位所需资源到位后立即重新排入队列。
+174,mapLock,Rotation lock,Блокировка поворота,旋转锁定
+175,mapLock-info,The minimap will rotate along with the camera.,Миникарта будет вращаться вместе с камерой.,小地图将随镜头一同旋转。
+176,mapKnobScale,Minimap size,Размер миникарты,小地图尺寸
+177,mapKnobScale-info,Scroll the mouse wheel to change the size.,"Крутите колесо мыши, чтобы менять размер.",滚动鼠标滚轮调整尺寸。
+178,mapKnobRot,Rotate the minimap,Поворот миникарты,旋转小地图
+179,mapKnobRot-info,Scroll the mouse wheel to change the rotation.,"Крутите колесо мыши, чтобы менять поворот.",滚动鼠标滚轮调整旋转角度。
+180,modeBehaviour,Behavior mode,Режим поведения,行为模式
+181,modeBehaviour-info,"There are two modes: defensive and offensive. In defensive mode, the unit holds its position. In offensive mode, it attacks proactively.",2 режима. Оборонительный и атакующий. При оборонительном юнит удерживает позицию. При атакующем пытается атаковать на опережение.,共有两种模式：防御与进攻。防御模式下，单位会坚守阵地；进攻模式下，单位会主动出击。
+182,attackPriority,Attack priority,Приоритет атаки,攻击优先级
+183,attackPriority-info,The target type the unit will switch to once that type is in range.,"Тип цели, на который переключится юнит, как только такой тип будет в зоне поражения.",一旦该类型的目标进入射程，单位便会自动切换攻击。
+184,attackBlock,Block the attack,Заблокировать атаку,禁止攻击
+185,attackBlock-info,Prevent a unit from firing or aiming at a target.,Запретить юниту вести стрельбу и наводиться на цель.,禁止单位开火或瞄准目标。
+186,aclick,Attack on the move,Атака в движении,移动攻击
+187,aclick-info,You specify the position your unit should advance to. The unit will move in that direction and attack everything within its range.,"Вы указываете позицию, в которую должен прорываться ваш юнит. Юнит будет двигаться в данном направлении и атаковать всё, что будет в его зоне поражения.",指定单位推进的位置，单位将朝该方向移动，并攻击射程内的一切目标。
+188,patrolOrder,Patrol,Патруль,巡逻
+189,patrolOrder-info,The unit patrols the area.,Юнит патрулирует местность.,单位在该区域巡逻。
+190,strikeGroupMain,Main strike group,Основная ударная группа,主力突击群
+191,strikeGroupMain-info,Troops that you can immediately deploy on the map. You'll also be given a mobile command post to build your base.,"Войска, которые вы можете разместить на карте сразу. Вам также будет выдан мобильный командный пункт для строительства базы.",可立即部署到地图上的部队。你还会获得一座机动指挥所，用于建造基地。
+192,strikeGroupAdd,Reinforcements from the Global Map,"Подкрепление с ""Глобальной карты""",来自全球地图的增援
+193,strikeGroupAdd-info,"There's no global map in the demo, but you can explicitly specify which troops will arrive on the map when reinforcements are called.
+The more troops you take, the longer the wait for the next reinforcement.
+
+Click to select.","Глобальной карты в демо нет, но вы можете явно указать, какие войска придут на карту при вызове подкреплений.
+Чем больше лимита войск вы возьмёте, тем дольше ждать следующего подкрепления.
+
+Щелкните мышкой, чтобы выбрать.","演示版中没有全球地图，但你可以明确指定呼叫增援时哪些部队会抵达战场。
+携带的部队越多，下一次增援的等待时间就越长。
+
+点击选择。"
+194,difficultyLevel,Enemy Difficulty,Сложность Врага,敌军难度
+195,difficultyLevel-info,"The difficulty multiplier affects the overall difficulty of the enemy.
+
+Here are the reference values for guidance:
++0.5 - easy difficulty.
++1.5 - medium difficulty.
++3 - hard difficulty.
+
+Bot start cheating after 2.5 scale.","Множитель сложности влияет на общую сложность противника.
+
+Вот референсные значения для ориентира:
++0.5 - легкая сложность.
++1.5 - средняя сложность.
++3 - тяжелая сложность.
+
+Бот начинает жульничать после 2,5 множителя.","难度倍率影响敌方的整体难度。
+
+以下是供参考的基准数值：
++0.5 - 简单难度。
++1.5 - 中等难度。
++3 - 困难难度。
+
+倍率超过 2.5 后，电脑将开始作弊。"
+196,enemyBaseScale,Size of enemy bases,Размер баз врага,敌方基地规模
+197,enemyBaseScale-info,"The number of buildings generated on the map.
+The resulting number of buildings affects the game's difficulty and duration.","Количество генерируемых построек на карте. 
+Выходное значение построек влияет на сложность игры и её продолжительность.","地图上生成的建筑数量。
+最终建筑数量会影响游戏的难度与时长。"
+198,unit-bmp,BMP,БМП,步兵战车
+199,unit-bmp-info,A heavy infantry fighting vehicle with good armor.,Тяжелая БМП с хорошим бронированием.,重型步兵战车，装甲防护良好。
+200,unit-rifleSquad,Riflemen,Стрелки,步枪兵
+201,unit-rifleSquad-info,Riflemen are light infantry. They accomplish their tasks through sheer numbers.,Стрелки - это легкая пехота. Выполняет поставленные задачи за счет количества.,步枪兵属于轻型步兵，依靠数量优势完成任务。
+202,unit-brem,BREM,БРЭМ,装甲抢修车
+203,unit-brem-info,The primary repair vehicle. Capable of repairing vehicles and restoring damaged super-heavy vehicles.,Основная машина ремонта. Способна ремонтировать технику и восстанавливать подбитые сверхтяжелые машины.,主力维修车辆，能够修复技术装备并抢修受损的超重型车辆。
+204,unit-bronenosets,Bronenosets,Броненосец,铁甲兽
+205,unit-bronenosets-info,The Bronenosets is a heavy assault tank. It has very strong armor and can regenerate its health on the battlefield.,"Броненосец, это тяжелый штурмовой танк. Обладает очень крепкой бронёй и способен восстанавливать прочность прямо на поле боя.",铁甲兽是一款重型突击坦克，装甲极为坚固，并能在战场上恢复结构值。
+206,unit-btr,BTR,БТР,装甲输送车
+207,unit-btr-info,An armored personnel carrier armed with an anti-aircraft machine gun.,"БТР, вооруженный зенитным пулемётом.",装备高射机枪的装甲输送车。
+208,unit-btrFlamer,Flamethrower armored personnel carrier,"БТР ""Огнемётный""",喷火装甲输送车
+209,unit-btrFlamer-info,A flamethrower vehicle based on a standard APC. Lightly armored. Above-average speed. Sets terrain on fire.,Огнемётная машина созданная на основе стандартного БТР. Легкая броня. Скорость выше средней. Поджигает местность.,基于标准装甲输送车改装的喷火车。装甲薄弱，速度高于平均水平，可点燃地面。
+210,unit-armcar,Armored car,Бронемашина,装甲侦察车
+211,unit-armcar-info,A vehicle with bulletproof armor. Ideal for reconnaissance. Light anti-aircraft gun and very high speed.,"Машина с противопульной бронёй. Идеально подходит для разведки. Легкая зенитная пушка, очень высокая скорость.",采用防弹装甲的车辆，非常适合执行侦察任务。装备轻型高射炮，机动速度极高。
+212,unit-dreadHowitzer,"Dreadnought ""Howitzer""","Дредноут ""Бомбарда""",无畏「榴弹炮」
+213,unit-dreadHowitzer-info,Super-heavy artillery. The most powerful cannon that can be freely moved around the battlefield.,"Сверхтяжелая артиллерия. Самая мощная пушка из тех, что можно свободно передивагать по полю боя.",超重型火炮，是能够在战场上自由机动的最强大火炮。
+214,unit-dreadnought,Dreadnought,Дредноут,无畏
+215,unit-dreadnought-info,"Super-heavy artillery. An indispensable vehicle for defense, fortification, and prolonged siege of enemy lines. In mobile mode, it can support the offensive.","Сверхтяжелая артиллерия. Незаменимая машина для обороны, укрепления на позициях и долгой осады вражеских линий. В мобильном режиме может поддержать наступление.",超重型火炮，是防御、筑垒集结以及长期围困敌方阵地的必备利器。在机动模式下可支援进攻。
+216,unit-flameTank,Flamethrower tank,Огнемётный танк,喷火坦克
+217,unit-flameTank-info,"An armored flamethrower vehicle. Its stream flamethrower constantly ignites the surface. High durability, low mobility.","Бронированная огнемётная машина. Потоковый огнемёт постоянно поджигает поверхность. Прочность высокая, мобильность низкая.",装甲喷火车辆，喷射的火焰持续点燃地表。结构值高，机动性低。
+218,unit-combine,Combine,Комбайн,采集机
+219,unit-combine-info,A working machine for collecting useful minerals from the earth's surface. The backbone of the economy. It's best to have as many of these as possible.,Рабочая машина для сбора полезных минералов с поверхности земли. Основа экономики. Таких лучше иметь как можно больше.,用于从地表采集有用矿物的工作机械，是经济体系的支柱。这类单位多多益善。
+220,unit-massInfantry,Mass infantry,Масс пехота,集群步兵
+221,unit-massInfantry-info,Large infantry squads. A larger formation of lightly armored riflemen and an infantryman with an anti-tank grenade launcher.,Большие пехотные отряды. Увеличенный кулак из стрелков в легкой броне и пехотинца с противотанковым гранатомётом.,大型步兵班组，由身着轻型装甲的步枪兵与一名携带反坦克榴弹发射器的步兵组成的加强编制。
+222,unit-gorbTank,Gorb Tank,Горб-танк,「驼峰」坦克
+223,unit-gorbTank-info,"A mass-produced heavy breakthrough tank with all-round armor. Turretless.
+Effective against buildings and large groups.","Массовый тяжелый танк прорыва с круговым бронированием. Отсутствует башня.
+Эффективен против зданий и крупных скоплений.","量产型重型突破坦克，采用全向装甲，无炮塔。
+对建筑与密集集群效果显著。"
+224,unit-atSquad,AT squad,ПТ отряд,反坦克班
+225,unit-atSquad-info,"Light infantry with anti-tank weapons.
+Inflicts significant damage to vehicles and buildings on impact.","Легкая пехота с противотанковым вооружением. 
+При попадании наносит значительный урон транспортным средствам и зданиям.","装备反坦克武器的轻型步兵。
+命中时会对车辆与建筑造成可观的伤害。"
+226,unit-molot,"Howitzer ""Molot""","Гаубица ""Молот""",榴弹炮「铁锤」
+227,unit-molot-info,"Self-propelled howitzer. The primary and most widely used artillery piece.
+Powerful in large numbers. Requires deployment to fire.
+","Самоходная гаубица. Основная и самая массовая артиллерия.
+Сильна в больших количествах. Требует развёртывания для ведения огня.
+","自行榴弹炮，是最主要、装备量最大的火炮。
+数量越多威力越大，开火前需要展开部署。
+"
+228,unit-brutes,Brutes,Бруты,蛮兵
+229,unit-brutes-info,"Slow, inept, and deformed, but armed cannon fodder. The Complector assembles them as he sees fit - but for you, this is free ""brute force"".","Медленное, косое и кривое, но вооруженное пушечное мясо.
+Комплектор формирует их как придётся, но для вас, это бесплатная ""грубая сила"".",行动迟缓、笨拙畸形的武装炮灰。合成巢随心所欲地把它们拼凑出来，但对你而言，这就是免费的「蛮力」。
+230,unit-spotters,Spotters,Корректировщики,校射组
+231,unit-spotters-info,"A squad of a sniper and a gunner. Using heavy shoulder-mounted radios, they can direct artillery to fire on positions from any distance.",Отряд из снайпера и наводчика. С помощью тяжелых радиостанций на плечах может наводить артиллерию для обстрела позиций с любой дистанции.,由狙击手与射手组成的小队。借助肩扛式重型电台，他们可以引导火炮从任意距离打击目标阵地。
+232,unit-heavyInfantry,Assault squad,Штурм. отряд,突击班
+233,unit-heavyInfantry-info,A versatile infantry unit. It includes a heavy anti-aircraft gunner and a rifle squad. The autocannon soldier is very strong and durable.,Универсальный отряд пехоты. Включает в себя тяжелого зенитчика и отряд стрелков. Солдат с автопушкой очень силён и живуч.,通用型步兵单位，由重型防空射手与步枪班组成。扛着自动炮的士兵战力强劲且十分耐打。
+234,unit-supvehicle,Mobile support camp,Мобильный лагерь поддержки,机动支援营地
+235,unit-supvehicle-info,The mobile infantry camp provides support for infantry.,Передвижной пехотный лагерь обеспечивает поддержку похоты.,机动步兵营地为步兵提供支援。
+236,unit-mainTank,"Tank ""T-50B""","Танк ""Т-50Б""",「T-50B」主战坦克
+237,unit-mainTank-info,"Main battle tank. Versatile and widely deployed, tracked. Can conduct offensive operations. Effective against vehicles and buildings.
+","Основной боевой танк. Универсальный и массовый, на гусеничной базе. Может вести наступление. Эффективен против техники и зданий.
+","主战坦克，采用履带底盘，用途广泛且大量列装。可执行进攻作战，对车辆与建筑效果显著。
+"
+238,unit-rszo,"MLRS ""Vortex""","РСЗО ""Вихрь""",「涡旋」火箭炮
+239,unit-rszo-info,"Long range, but also long minimum range. Effective over large areas with wide dispersion. Shells with a large incendiary payload.","Большая дистанция стрельбы, но и большая минимальная дальность. Работает по площадям с большим разбросом. Снаряды с большой поджигающей нагрузкой.",射程远，最小射程同样很远。可覆盖大面积区域，但散布较大。弹药装有大量燃烧剂。
+240,unit-yak,P-2,П-2,P-2 截击机
+241,unit-yak-info,Interceptor. Heavy machine guns can deal with any aerial target.,Перехватчик. Тяжелые пулемёты смогут справяться с любой воздушной целью.,截击机，其重型机枪可应对任何空中目标。
+242,unit-aaTank,"ZU ""Exhaust""","ЗУ ""Выхлоп""",「废气」自行高炮
+243,unit-aaTank-info,A heavy self-propelled anti-aircraft gun. It shoots down aerial targets and can fire directly at ground targets.,Тяжелая самоходная зенитная установка. Сбивает воздушные цели и может стрелять прямой наводкой по наземным целям.,重型自行高炮，可击落空中目标，也能直瞄射击地面目标。
+244,unit-zeppelin,Heavy transport vehicle,Тяжелый транспортник,重型运输车
+245,unit-zeppelin-info,Transports equipment. Can fire a light machine gun.,Перевозит технику. Может отстреливаться легким пулемётом.,运输技术装备，可用轻机枪射击。
+246,unit-mcv,MCV,МСЦ,机动建造车
+247,unit-mcv-info,The mobile assembly shop is a mobile command post for construction workers. It handles base construction and maintains communications with command.,"Мобильный сборочный цех, это передвижной пункт управления строителями. Осуществляет строительство базы и связь с командованием.",机动组装车间是建造人员的移动指挥所，负责基地建设并与指挥部保持联络。
+248,unit-mgTurret,"Turret ""AK-30""","Турель ""АК-30""",「AK-30」炮塔
+249,unit-mgTurret-info,A versatile turret capable of engaging infantry and shooting down low-flying enemy aircraft. It can be moved.,"Универсальная турель, способная бороться против пехоты и сбивать вражескую низколетящую авиацию. Можно перемещать.",通用炮塔，可打击步兵并击落低空飞行的敌方飞机，且能够移动。
+250,unit-repairPad,Repair site,Ремонтная площадка,维修场
+251,unit-repairPad-info,Repairs equipment that has entered the site. Can be moved.,Ремонтирует технику заехавшую на площадку. Может перемещаться.,维修驶入场内的技术装备，且能够移动。
+252,unit-bigBrem,"TRM ""Silach""","ТРМ ""Силач""",「力士」重型抢修车
+253,unit-bigBrem-info,A heavy repair vehicle. Repairs vehicles in nearby squares. Also has an upgrade for infantry healing.,Тяжелая ремонтная машина. Ремонтирует технику в ближайших квадратах. Есть также улучшение на лечение пехоты.,重型维修车辆，可修理周边格子内的车辆，还拥有治疗步兵的升级。
+254,unit-cerber,Cerberus,Цербер,刻耳柏洛斯
+255,unit-cerber-info,An armored assault mutant with strong bones. Easily regenerates health during combat. It is immobile and has two artillery cannons.,Штурмовой бронированный мутант с прочными костями. Легко восстанавливает здоровье во время сражения. Не мобилен и имеет 2 артиллерийских пушки.,身披甲壳的突击型变异体，骨骼强韧，战斗中能轻松恢复生命值。无法移动，装备两门火炮。
+256,unit-corrupter,Host Corrupter,Хост губитель,宿主腐蚀者
+257,unit-corrupter-info,"A unique summoning artillery unit. When attacking, it sends mini-worms through the ground that act as whips, while simultaneously summoning a swarm of midges.
+Vulnerable in close combat.","Своеобразная артиллерия-призыватель. Во время атаки отправляет через землю мини-червей исполняющие роль хлыстов и при этом призывает рой гнуса.
+Уязвим в ближнем бою.","独特的召唤型炮兵单位。攻击时会从地下放出充当鞭子的微型蠕虫，同时召来成群的蚊蚋。
+近战中十分脆弱。"
+258,unit-fatSwarm,Strong crawler,Крепкий ползун,健壮爬行者
+259,unit-fatSwarm-info,"The Crawler is a small Cerberus. Armored, slow, and deals good damage to buildings.","Ползун, это недоросший цербер. Бронирован, медлителен, хороший урон по зданиям.",爬行者是小型的刻耳柏洛斯，身披装甲、行动迟缓，对建筑能造成可观伤害。
+260,unit-gnus,Disgusting concrete eater,Гнус бетоноед,恶心食混凝土虫
+261,unit-gnus-info,It also digests metal well. Flies are good at devouring vehicles and confusing infantry.,Так же хорошо переваривает и металл. Мухи хорошо пожирают технику и сбивают с толку пехоту.,它同样能很好地消化金属。这些蝇虫擅长吞噬车辆，并能扰乱步兵。
+262,unit-mutantHarv,Big collector,Большой сборщик,大型采集船
+263,unit-mutantHarv-info,"The Mutant Harvester is a large, slow-moving barge with an impressive capacity for transporting materials. It is the mutants' primary economic unit.","Сборщик мутантов, это большая и медлительная баржа с внушительным объёмом переносимых материалов. Является основным экономическим юнитом мутантов.",变异体采集船是一艘庞大而缓慢的驳船，拥有惊人的物资运载量，是变异体最主要的经济单位。
+264,unit-massMeat,Mass of flesh,Масса плоти,血肉巨块
+265,unit-massMeat-info,"A revived, standing-up pile of everything. Lots of health and a very large size.",Ожившая и вставшая наноги куча всего на свете. Очень много здоровья и очень большой размер.,一堆被唤醒并站立起来的杂物。生命值极高，体型十分巨大。
+266,unit-meat,Meat,Мясо,肉块
+267,unit-meat-info,A small piece of flesh on the legs. Effectively hits infantry with rotten shots.,Небольшой кусок мяса на ногах. Эффективно поражает пехоту гнилыми выстрелами.,长着腿的一小块血肉，能用腐烂的喷射有效打击步兵。
+268,unit-gigant,Giant,Гигант,巨像
+269,unit-gigant-info,A mutant from the Colossus series. Destructive in every sense.,Мутант из серии колоссов. Разрушителен во всех смыслах.,「巨像」系列的变异体，无论从哪方面看都极具破坏力。
+270,unit-muha,Mutant fly,Муха мутант,变异蝇
+271,unit-muha-info,This is a large mutant fly with a rocket launcher. It flies fast.,Это большая муха-мутант с ракетницей. Быстро летает.,这是一只体型巨大的变异体飞虫，装备火箭发射器，飞行速度极快。
+272,unit-warriors,Mutant fighters,Бойцы-мутанты,变异体战士
+273,unit-warriors-info,Mutant rifle infantry. Overgrown creatures with machine guns fused into their arms can outshoot their counterparts by a wide margin.,Cтрелковая пехота мутантов. Переростоки с вросшими в руки пулемётами могут перестрелять свои аналоги с большим отрывом.,变异体步枪步兵。这些异常庞大的怪物将机枪与手臂融为一体，火力远超同类单位。
+274,unit-oldTank,Old tank,Старый танк,旧式坦克
+275,unit-oldTank-info,"An old three-track tank assembled from scrap and parts of other tanks. Average performance, with a slight bias toward infantry.",Старый трёхгусеничный танк собранный из мусора и частей других танков. Показатели средние с небольшим уклоном в стрельбу по пехоте.,一辆用废铁和其他坦克零件拼装而成的三履带旧坦克。性能中庸，略微偏向反步兵。
+276,unit-scumMutant,Sick mutant,Больной мутант,病变变异体
+277,unit-scumMutant-info,"Heavy infantry of the mutants. They roam alone and are vulnerable to heavy weapons, but they are unmatched in firefights.","Тяжелая пехота мутантов. Ходит в одиночку и уязвим к тяжелому вооружению, но в перестрелках ему нет равных.",变异体的重型步兵。它们独自游荡，畏惧重型武器，但在近距离交火中所向无敌。
+278,unit-spider,Spider,Паук,蜘蛛
+279,unit-spider-info,"Technically not a spider, but nicknamed so because of its thin legs. Very fast and effective against vehicles. Excellent for flanking. Almost no durability.","Технически не паук, но его прозвали так из за тонких ног. Очень быстр и эффективен против машин. Отлично подходит для фланговых обходов. Живучести почти нет.",严格来说并非蜘蛛，只因腿部纤细才得此绰号。速度极快，对付车辆效果拔群，非常适合侧翼包抄，但几乎毫无生存能力。
+280,unit-swarm,Worms,Червяки,蠕虫
+281,unit-swarm-info,Mutant food and assault potential all in one. They quickly mow down infantry if they can get close enough.,"Еда для мутантов и штурмовой потенциал одновременно. Быстро сбривают пехоту, если доползают.",既是变异体的口粮，也是冲锋的利器。只要能爬到近前，就能迅速扫倒步兵。
+282,unit-toxicArtillery,Plotestrel,Плотестрел,喷毒者
+283,unit-toxicArtillery-info,Long-range artillery. A projectile carrying a damaging payload is launched at a very high trajectory and over a long range. Effective against buildings.,Дальнобойная артиллерия. По очень высокой траектории и на большую дальность запускается снаряд с полезной нагрузкой ввиде урона. Эффективна против зданий.,远程火炮。以极高弹道将携带杀伤载荷的炮弹射向远距离目标，对建筑效果显著。
+284,unit-baloon,Battle Ball,Боевой шар,战斗气球
+285,unit-baloon-info,A lightweight hot air balloon flying at medium-low altitude. Armed with a rocket launcher for firing at ground targets.,Легкий воздушный шар летающий на средне-низкой высоте. Вооржуен ракетницей для стрельбы по наземным целям.,一具在中低空飞行的轻型热气球，装备火箭发射器，可攻击地面目标。
+286,unit-sonicWagon,Sound artillery,Звуковая артиллерия,声波火炮
+287,unit-sonicWagon-info,A specialized machine for clearing blockages in civilian systems. It's also suitable for destroying flesh and light equipment.,Специальная машина для уничтожения засоров в гражданских системах. Так же неплохо подходит для разрушения плоти и легкой техники.,专门用于清除民用系统堵塞的特种车辆，用来撕碎血肉之躯和轻型装备同样得心应手。
+288,unit-assaultTruck,Assault Truck,Штурмовой грузовик,突击卡车
+289,unit-assaultTruck-info,"Heavy assault vehicle armed with anti-aircraft machine guns and cannons in sponsons. High survivability, but not the best armor.","Тяжелая машина прорыва. Вооружена крупными зенитными пулемётами и пушками в спонсонах. Высокая живучесть, но не самая лучшая броня.",重型突击车辆，装备高射机枪和侧舷炮。生存能力出众，但装甲并不算顶尖。
+290,unit-buggy,Pickup,Пикап,皮卡
+291,unit-buggy-info,"A light vehicle with a heavy anti-aircraft machine gun. High speed, light armor, excellent for reconnaissance and infantry skirmishes.","Легкая машина с тяжелым зенитным пулемётом. Высокая скорость, слабая броня, отлично подходит для разведки и перестрелки с пехотой.",搭载重型高射机枪的轻型车辆。速度快、装甲薄弱，非常适合侦察与步兵交火。
+292,unit-wheeledDom,Mobile home,Передвижной дом,移动房车
+293,unit-wheeledDom-info,A huge barn-like house providing command over its area of operation. A wide selection of weapons is available. Sometimes rebels and bandits use it as an assault unit.,Огромный дом-сарай обеспечивающий командование в зоне своего прибывания. Большй выбор вооружения в круг. Иногда мятежники и бандиты используют его в качестве штурмовой единицы.,巨大的棚屋式建筑，可掌控其活动区域内的指挥权，武器配置丰富多样。叛军与匪徒有时会将其当作突击单位使用。
+294,unit-smallTank,"Tank ""M-40""","Танк ""М-40""",「M-40」轻型坦克
+295,unit-smallTank-info,A light tank based on prototypes from the distant past.,"Легкий танк, созданный на основе прототипов из далекого прошлого.",以久远年代的原型车为基础研制的轻型坦克。
+296,unit-monocycle,Unicycle T-2,Моноцикл Т-2,T-2 独轮车
+297,unit-monocycle-info,"A heavy-duty version of the unicycle. Protected against light weapons, but still fast.","Тяжелая версия моноцикла. Бронированная от легкого вооружения, но всё еще быстрая.",独轮车的重型版本。可抵御轻型武器，同时依旧保持着高速。
+298,unit-ballista,Ballista,Баллиста,弩炮
+299,unit-ballista-info,"A mechanized energy ballista. Heavy, close-range artillery. Deals high damage with a quick discharge to a specific location. Very low mobility.",Механизированная энергетическая баллиста. Тяжелая артиллерия ближнего действия. Наносит большой урон быстрым разрядом по позиции. Мобильность очень низкая.,机械化的能量弩炮，属于重型近程火炮。以一次快速放电对指定位置造成巨额伤害，机动性极低。
+300,unit-warbot,Drone squad,Отряд дронов,无人机小队
+301,unit-warbot-info,"The lightest unit for robotic escalation missions. Armored, relatively fast, with two drones per squad. Highly effective against infantry.","Самый легкий юнит роботической экскалационной миссии. Бронирован, относительно быстр, в отряде 2 дрона. Высокая эффективность против пехоты.",机械进化阵营中最轻型的单位。具备装甲防护，速度较快，每队两台无人机，对付步兵极为有效。
+302,unit-robotHarv,Drone collector,Дрон сборщик,采集无人机
+303,unit-robotHarv-info,"This is a harvester for gathering useful resources on the map. Escalation emphasizes speed of collection and transport rather than capacity, so you'll need quite a few.","Это харвестер для сбора полезных ресурсов на карте. Эскалация делает упор на быстроту сбора и перевозки, а не на вместительность, так что их потребуется немало.",用于在地图上采集有用资源的采集机。机械进化更看重采集与运输的速度而非载量，因此需要配备相当数量。
+304,unit-liner,Heavy liner,Тяжелый лайнер,重型大型载具
+305,unit-liner-info,A large robotic machine designed for base defense and combat reconnaissance.,Большая машина роботов созданная для обороны баз и разведки боем.,为基地防御与战斗侦察而设计的大型机械单位。
+306,unit-seeker,Seeker,Искатель,搜寻者
+307,unit-seeker-info,An air defense grav-tank. Fires missiles with area-of-effect damage. Also effective against infantry. Has difficulty penetrating armored vehicles.,Гравитанк ПВО. Ведёт огонь ракетами с уроном по области. Так же эффективен против пехоты. Бронированную технику пробивает с трудом.,防空悬浮坦克，发射造成范围伤害的导弹，对步兵同样有效，但难以击穿装甲车辆。
+308,unit-spear,Arc Spear,Арк-копьё,电弧长矛
+309,unit-spear-info,The heavy artillery of the Robotic Escalation. Very powerful against all targets and has a mobile base.,Тяжелая артиллерия Роботической Эскалации. Очень сильна против всех целей и имеет подвижную базу.,机械进化的重型火炮。对各类目标都极具威力，且拥有可移动的底座。
+310,unit-roboTank,Plasma tank,Плазмо-танк,等离子坦克
+311,unit-roboTank-info,"The robots' main battle tank, powered by gravity. The best of its kind.",Основной боевой танк роботов на гравитационной подушке. Лучший в своём роде.,机器人的主战坦克，依靠重力悬浮行进，是同类中的佼佼者。
+312,unit-devastator,"Tank ""Desolator""","Танк ""Опустошитель""",「荒芜者」坦克
+313,unit-devastator-info,A heavy vehicle with an energy weapon based on robotic technology. It also has machine guns in sponsons.,Тяжелая машина с энергетическим орудием основанное на технологиях роботов. Есть еще пулемёты в спонсонах.,搭载基于机器人技术的能量武器的重型车辆，侧舷另配有机枪。
+314,unit-tankBeam,"Tank ""Luch""","Танк ""Луч""",「光束」坦克
+315,unit-tankBeam-info,Tank with a heavy plasma cutter.,Танк с тяжелым плазменным резаком.,配备重型等离子切割器的坦克。
+316,unit-marauder,Marauder,Мародёр,掠夺者
+317,unit-marauder-info,A small truck with a missile launcher.,Небольшой грузовик с ракетной пусковой установкой.,搭载导弹发射器的小型卡车。
+318,unit-tvmech,TV,Телевизор,电视
+319,unit-tvmech-info,Another vehicle from the past. The mercenary version includes more powerful armor and a 50mm autocannon.,Еще одна машина прошлого. Модификация наёмников включает в себя более мощную броню и 50мм автопушку.,又一台来自过去的机器。雇佣兵版本强化了装甲，并加装一门50毫米自动炮。
+320,unit-rafa,Rafa,Рафа,拉法
+321,unit-rafa-info,A fast and small trike equipped with four missiles.,Быстрый и мелкий трайк оснащенный четырьмя ракетами.,搭载四枚导弹的小型高速三轮车。
+322,unit-scorpion,Scorpio,Скорпион,蝎子
+323,unit-scorpion-info,Wasteland artillery. Simple and straightforward. Average performance.,Артиллерия пустоши. Простая и незатейливая. Показатели усреднённые.,废土火炮。构造简单朴素，各项性能中庸。
+324,build-oilPump,Abandoned mine,Заброшенная шахта,废弃矿井
+325,build-oilPump-info,Repairing this building will provide additional resources.,"Починив это здание, оно приносит дополнительные ресурсы.",修复该建筑后，它将带来额外的资源收入。
+326,build-medPoint,Medical post,Медицинский пост,医疗站
+327,build-medPoint-info,Medical points heal infantry in a small area and break over time.,Медицинские точки лечат пехоту в небольшой области. Со временем ломается.,医疗站可为小范围内的步兵提供治疗，但会随时间损坏。
+328,build-largePipe,Big pipe,Большая труба,大型管道
+329,build-heavyWall,Heavy wall,Тяжёлая стена,重型墙
+330,build-heavyWall-info,Modular wall made of super concrete. Very durable.,Модульная стена из супербетона. Очень прочная.,由超强混凝土砌成的模块化墙体，极其坚固。
+331,build-heavyCover,Heavy cover,Тяжёлое укрытие,重型掩体
+332,build-heavyCover-info,"This shelter is made of durable materials, and the infantry will hold out longer behind it.","Это укрытие сделано из прочных материалов, за ним пехота продержится дольше.",该掩体由坚固材料建成，步兵躲在其后可坚持更久。
+333,build-armory,Arsenal,Арсенал,军械库
+334,build-armory-info,"Some units require this building.
+
+The damage of your new troops increases by 5% for each additional building, up to a maximum of 30%.","Некоторые юниты требуют это здание. 
+
+Урон ваших новых войск повышается на 5% за каждое дополнительное здание. Не больше 30%.","部分单位需要此建筑。
+
+每多建造一座，新部队的伤害提升5%，最多提升30%。"
+335,build-atTurret,"Turret ""AK-125""","Турель ""AК-125""",「AK-125」炮塔
+336,build-atTurret-info,"A stationary anti-tank turret. An automatic loader is installed inside, ensuring a high rate of fire.",Стационарная противотанковая турель. Внутри установлен автомат заряжания обеспечивающий высокую скорострельность.,固定式反坦克炮塔。内置自动装弹机，射速极高。
+337,build-avanpost,Outpost,Аванпост,前哨
+338,build-avanpost-info,An outpost is a link in inter-territorial communication. Such buildings are located in the wastelands.,Аванпост - связующее звено межтерриториальной коммуникации. Такие здания размещаются в пустошах.,前哨是跨区域通讯的联络节点，这类建筑通常建在废土之上。
+339,build-barn,Warehouse,Склад,仓库
+340,build-barn-info,Expands the supply limit.,Расширяет лимит снабжения.,提升补给上限。
+341,build-bigBarn,Large warehouse,Большой склад,大型仓库
+342,build-bigBarn-info,Greatly increases supply limits. Useful for faster deployment and better suited for late-stage conflicts.,"Сильно расширяет лимит снабжения. Полезен для более быстрого развёртывания
+ и лучше подходит для поздней стадии конфликта.",大幅提升补给上限。有助于加快部署，更适合战争后期。
+343,build-barracks,Barracks,Казармы,兵营
+344,build-barracks-info,The primary production building for infantry units. It can be used to summon various types of manpower to the battlefield.,"Основное производящее здание для войск типа ""пехота"". В нём можно призвать на поле боя различные виды живой силы.",生产步兵类单位的主要建筑，可在此将各类人员投入战场。
+345,build-bunker,Bunker,Бункер,地堡
+346,build-bunker-info,A sturdy defensive building that can house infantry units. This building can also restore infantry health with appropriate upgrades.,"Прочное оборонительное здание, в которое можно поместить пехотные отряды. Это здание также может восстанавливать здоровье пехоте при соответствующих улучшениях.",坚固的防御建筑，可容纳步兵小队。经过相应升级后，还能恢复步兵的生命值。
+347,build-largeCrane,Construction crane,Строительный кран,施工起重机
+348,build-largeCrane-info,"Adds another building construction queue. Significantly expands the construction area.
+
+Repairs equipment within a small square.","Добавляет еще одну очередь строительства зданий. Сильно расширяет зону строительства.
+
+Ремонтирует технику в небольшом квадрате.","增加一条建筑建造队列，大幅扩展建造区域。
+
+可维修小范围内的装备。"
+349,build-tankFactory,Machinery plant,Завод техники,车辆工厂
+350,build-tankFactory-info,"The main production building for the vehicle units. 
+
+Construction of these buildings in a row gives a discount on production.","Основное производящее здание для войск типа ""техника"".
+
+Строительство этих заводов в ряд даёт скидку на производство.","车辆类单位的主要生产建筑。
+
+将这些厂房连成一排建造可获得生产折扣。"
+351,build-flamerTurret,Flamethrower turret,Огнемётная турель,喷火炮塔
+352,build-flamerTurret-info,"The stream flamethrower constantly sets the area ablaze, causing significant damage to infantry and light vehicles. It has a limited field of view and aiming angle.",Потоковый огнемёт постоянно поджигает местность и наносит серьёзный урон пехоте и лёгкой технике. Имеет ограниченый угол обзора и наведения.,喷射式喷火器持续点燃周边地面，对步兵和轻型车辆造成重创。视野与射界角度有限。
+353,build-generator,Power station,Энергостанция,发电站
+354,build-generator-info,"Increases network capacity. If the capacity level is negative, most defensive structures will be disabled, and troop production will slow.","Увеличивает сетевую мощность. Если уровень мощности будет отрицательным, большая часть оборонительных сооружений отключится, а производство войск замедлится.",提升电网功率。若功率为负，大部分防御设施将停止运作，部队生产也会放缓。
+355,build-smallgen,Lightweight generator,Легкий генератор,轻型发电机
+356,build-smallgen-info,Cheap and small generator.,Дешевый и небольшой генератор.,便宜且体积小巧的发电机。
+357,build-massfab,Mat. Fabricator,Мат. Фабрикатор,物资制造机
+358,build-massfab-info,"Matter Fabricator. The catalyst inside this factory, using a large amount of energy, produces a standard resource from deep mineral dust.","Фабрикатор материи. Катализатор внутри этой фабрики, расходуя большое количество энергии, производит из глубинной минеральной крошки стандартный ресурс.",物资制造机。厂内的催化剂消耗大量电力，将深层矿物碎屑转化为标准资源。
+359,build-radar,Radar,Радар,雷达
+360,build-radar-info,This building can be used for reconnaissance and terrain scanning. It also highlights static enemy structures.,С помощью этого здания можно производить разведку и скан местности. Также он подсвечивает статические постройки противника.,借助该建筑可进行侦察与地形扫描，还能标出敌方的固定建筑。
+361,build-refinery,Processing plant,Завод переработки,加工厂
+362,build-refinery-info,"Mineral processing plant. Processes minerals into primary resources.
+
+The processing capacity is approximately two combine harvesters.","Минералоперерабатывающий завод. Перерабатывает минералы в основной ресурс. 
+
+Пропускная способность около двух комбайнов.","矿产加工厂。将矿产加工为主要资源。
+
+处理能力约为两台采集机。"
+363,build-silo,Storage,Хранилище,仓库
+364,build-silo-info,Extends the maximum limit of stored materials (primary resource).,Расширяет максимальный лимит хранимых материалов (основной ресурс).,提升物资（主要资源）的存储上限。
+365,build-resStation,Resource platform,Ресурсная площадка,资源平台
+366,build-resStation-info,This building allows you to access resources from the global map. The transporter will automatically begin unloading resources if any are available.,"С помощью этого здания, вы можете получить доступ к ресурсам с глобальной карты. Транспортник автоматически начнёт выгружать ресурсы, если таковые будут.",这座建筑让你可以动用来自全球地图的资源。若有资源可用，运输车会自动开始卸载。
+367,build-complector,Complector,Комплектор,合成巢
+368,build-complector-info,"A bioengineering station that produces ""Brutes"".
+
+Attachment mechanics:
+- Barracks nearby receive a 5% discount.
+- Power station speed up 'Brute' production.
+- Storages increase the maximum number of ""Brutes"".
+
+Existing Complectors increasing their maximum limit of ""Brutes"".","Биоинженерная станция, постепенно производящая ""Брутов"".
+
+Механика пристроек:
+- Казармы рядом получают скидку 5%.
+- Электростанции ускоряют производство ""Брутов"".
+- Хранилища увеличивают максимальное кол-во ""Брутов"".
+
+Уже существующие Комплекторы расширяют свой максимальный лимит ""Брутов"".","一处持续产出“蛮兵”的生物工程站。
+
+附属机制：
+- 附近的兵营获得 5% 折扣。
+- 发电站可加快“蛮兵”的生产速度。
+- 仓库提高“蛮兵”的数量上限。
+
+已建成的合成巢自身也会提高“蛮兵”的上限。"
+369,build-foundry,Foundry,Литейная,铸造厂
+370,build-foundry-info,"Some units require this building.
+
+The durability of your new units increases by 10% for each additional building, up to a maximum of 50%.","Некоторые юниты требуют это здание. 
+
+Прочность ваших новых машин повышается на 10% за каждое дополнительное здание. Не больше 50%.","部分单位需要这座建筑才能生产。
+
+每多建造一座，你的新单位结构值就提升 10%，最高不超过 50%。"
+371,build-supplyDepot,Supply depot,Депо снабжения,补给站
+372,build-supplyDepot-info,Provides ongoing support for your troops. It also opens the possibility of placing temporary supplies.,Занимается обеспечением ваших войск. А также открывает возможность размещения складов снабжения.,为你的部队提供持续补给，同时解锁投放临时补给点的能力。
+373,build-trench,Trench,Окоп,战壕
+374,build-trench-info,The cheapest and fastest-to-build defensive structure compared to others.,Самое дешевое и быстро возводимое оборонительное сооружение относительно других.,相比其他防御工事，造价最低、建造最快的防御设施。
+375,build-yarus,Yarus launch silo,"Пусковая шахта ""Ярус""",“雅鲁斯”发射井
+376,build-yarus-info,"Experimental Launch Fabricator Silo, produces heavy missiles with high explosive warheads and controls their launches.","Экспериментальная пусковая фабрикаторная шахта, производит тяжелые ракеты с фугасной боевой частью и управляет их запусками.",实验型制造发射井，生产装有高爆弹头的重型导弹，并控制其发射。
+377,build-subgen,Additional generator,Доп. генератор,附加发电机
+378,build-subgen-info,A solid-fuel generator. Produces additional power. Can be installed on a standard power station.,Твёрдотопливный генератор. Вырабатывает дополнительную мощность. Устанавливается на обычную энергостанцию.,固体燃料发电机，提供额外功率，可加装在标准发电站上。
+379,buid-aaStratTower,Anti-aircraft tower,Зенитная башня,防空塔
+380,buid-aaStratTower-info,"Heavy anti-aircraft turret. Anti-aircraft guns shoot down aerial targets at long range, causing damage over a wide area. Best destroyed or captured as soon as possible.","Тяжелая зенитная башня. Зенитные пушки сбивают воздушные цели на большом расстоянии нанося урон по большой области. Лучше уничтожить или захватить как только появится возможность.
+",重型防空塔。防空炮可在远距离击落空中目标，并造成大范围伤害。最好一有机会就将其摧毁或占领。
+381,build-civsStructs,Civil structures,Гражданские структуры,民用建筑
+382,object-ostov,Ruin,Руины,废墟
+383,object-container,Container,Контейнер,集装箱
+384,unit-heavyBomber,Heavy bomber,Тяжелый бомбардировщик,重型轰炸机
+385,build-midStrat,Special object,Особый объект,特殊设施
+386,build-midStrat-info,"Specialized buildings with a specific purpose. Control over them, in theory, will provide an advantage.","Специализированные здания особой направленности. Контроль над ними, в теории, обеспечит преимущество.",用途专一的特殊建筑。理论上，控制它们就能带来优势。
+387,build-ostov,Ruin,Остов,废墟
+388,build-strategicStructure,Strategic construction,Стратегическая постройка,战略建筑
+389,build-strategicStructure-info,"A structure of considerable size that performs strategic functions both on the global map and in tactical mode, depending on the task.","Немалых размеров структура выполняющая стратегические функции как на глобальной карте, так и в тактическом режиме в зависимости от задачи.",规模可观的结构，视任务不同，可在全球地图与战术模式中发挥战略作用。
+390,build-flyPod,The Creator of Flies,Создатель мух,造蝇者
+391,build-flyPod-info,Biofactory for the production of flying mutants.,Биофабрика для порождения летающих мутантов.,用于培育飞行变异体的生物工厂。
+392,build-mutantBarrack,House of Mutants,Дом мутантов,变异体巢屋
+393,build-mutantBarrack-info,A nest-like mutant home. It houses and equips infantry units you can call to the battlefield. It's the primary production building for infantry units.,"Гнездовидный дом мутантов. В нём живут и снаряжаются пехотные подразделения, которые вы сможете призвать на поле боя. Основное производящее здание для войск типа ""пехота"".",一处巢穴般的变异体居所，供你召唤上战场的步兵单位栖息与整备。这是生产步兵单位的主要建筑。
+394,build-bioSpot,Bio bubble,Био пузырь,生物泡
+395,build-bioSpot-info,"A versatile building for expanding your supply limit and storing materials. It also provides energy, just in case.","Универсальное здание для расширения лимита снабжения и хранилище для материи. Так же даёт энергию, на всякий случай.",多功能建筑，用于扩大补给上限并储存物资。顺便也能提供电力，以备不时之需。
+396,build-bioCapsule,Capsules,Капсулы,荚囊
+397,build-bioCapsule-info,Unit storage capsules. Release mutants within them.,Капсулы хранения юнитов. Освобождают мутантов в них находящихся.,储存单位的荚囊，可释放其中的变异体。
+398,build-mutantFactory,Formative house,Формирующий дом,成形屋
+399,build-mutantFactory-info,"A factory for the production of biomachines, heavy mutants, and other mechanical-like equipment. The primary production building for vehicle units.","Завод по производству биомашин, тяжелых мутантов и прочих аналогов механической техники. Основное производящее здание для войск типа ""техника"".",生产生物机械、重型变异体及其他类机械装备的工厂。这是生产车辆单位的主要建筑。
+400,build-oddFlak,Strange anti-aircraft gun,Странная зенитка,奇异高炮
+401,build-oddFlak-info,A rapid-fire turret for shooting down enemy aircraft.,Скорострельная турель для сбивания вражеских летательных аппаратов.,速射炮塔，用于击落敌方飞行器。
+402,build-massMeatPool,A pool of flesh mass,Омут массы плоти,血肉池
+403,build-massMeatPool-info,"A large building that nurtures a gigantic mutant. In its static form, it functions as long-range artillery, very difficult to ignore on the battlefield.","Большое здание взращивает гиганских размеров мутанта. В своей статической форме исполняет роль дальнобойной артиллерии, которую очень сложно проигнорировать на поле боя.",培育巨型变异体的大型建筑。在其静止形态下充当远程火炮，战场上极难被忽视。
+404,build-bioRefinery,Stomach of prey,Желудок добычи,猎物之胃
+405,build-bioRefinery-info,A mineral processing bio-workshop. The mutants' primary economic building.,Перерабатывающий минералы биоцех. Основное экономическое здание мутантов.,加工矿产的生物车间，是变异体的主要经济建筑。
+406,build-spitTurret,Spit turret,Турель-плевака,喷吐炮塔
+407,build-spitTurret-info,"A large artillery turret. Excellent against vehicles and infantry, but has a very high projectile trajectory and low muzzle velocity.","Большая артиллерийская турель. Отлично справляется с техникой и пехотой, но имеет очень высокую траекторию полёта снаряда с низкой начальной скоростью.",大型火炮炮塔。对付车辆和步兵极为有效，但弹道极高且初速很低。
+408,build-mutantPost,Observant sprout,Наблюдательный росток,守望芽
+409,build-mutantPost-info,Post for area control.,Пост для контроля местности.,用于控制区域的哨所。
+410,build-wormTurret,Subterranean worm,Подземный глист,地下蠕虫
+411,build-wormTurret-info,A worm that deals sudden damage in a line and over an area. Effective against anything it can reach. Difficult to hit without artillery.,Червь внезапно наносящий урон по линии и по области. Эффективен против всего до чего дотянется. Сложно поразить без артиллерии.,蠕虫会突然造成直线与范围伤害，对任何触及的目标都有效。没有火炮很难将其命中。
+412,build-airPit,Aircraft pit,Авио яма,飞行器坑
+413,build-airPit-info,Workshop for assembling aircraft from scrap.,Цех для сборки летательных аппаратов из мусора.,用废料组装飞行器的车间。
+414,build-slavePost,Master's Outpost,Хозяйский аванпост,主人前哨
+415,build-slavePost-info,"A large warehouse of slaves. Fun fact: usually, captured synthetic humans are enlisted as slaves, as there's little choice.","Большой склад рабов. Забавный факт: обычно в рабов записывают пленных синтетических людей, так как почти не из чего выбирать.",存放奴隶的大型仓库。趣闻：通常被俘的合成人会被充作奴隶，因为实在别无选择。
+416,build-troopShack,Militants' hut,Хижина боевиков,武装分子棚屋
+417,build-troopShack-info,A den for bandits. Various military groups remain in these areas to further expand their influence. The main building for recruiting rebel infantry.,"Притон для бандитов. Разного рода военные группировки остаются в этих местах, чтобы в последствии распространять своё влияние. Основное здание для найма пехоты мятежников.",匪徒的巢穴。各类武装集团盘踞于此，借以向外扩张自己的势力。这是招募叛军步兵的主要建筑。
+418,build-machineShop,Engine shop,Моторный цех,引擎车间
+419,build-machineShop-info,"A junkyard of trophies, stolen parts, and unfinished projects. This is where the rebels build their equipment.","Свалка из трофеев, ураденных деталей и недоделанных проектов. Здесь мятежники строят свою технику.",堆满战利品、偷来的零件和半成品的废料场。叛军就在这里制造自己的装备。
+420,build-oldGenerator,Generator,Генератор,发电机
+421,build-oldGenerator-info,"A standard, somewhat older, solid fuel generator. Increases grid power.","Обычный, несколько постаревший, твёрдотопливный генератор. Увеличивает сетевую мощность.",略显老旧的常规固体燃料发电机，可提升电网功率。
+422,build-oldFlak,Antiaircraft gun,Зенитка,高射炮
+423,build-oldFlak-info,Two heavy machine guns in a circular turret. Fires at air and ground targets.,2 тяжелых пулемёта в круговой турели. Стреляет по воздушным и наземным целям.,环形炮塔上架设两挺重机枪，可对空中和地面目标开火。
+424,build-oldSilos,Ball silos,Шаровые силосы,球形仓库
+425,build-oldSilos-info,Simple material storage.,Незатейливое хранилище материалов.,简陋的物资仓库。
+426,build-oldTower,Observation tower,Смотровая вышка,瞭望塔
+427,build-oldTower-info,Observation post for control over the territory.,Наблюдательный пост для контроля над территорией.,用于掌控周边区域的观察哨。
+428,build-robotBarrack,Light Infantry Workshop,Легкий пехотный цех,轻型步兵车间
+429,build-robotBarrack-info,Assembling infantry-type troops. The main infantry building for the Robotic Escalation faction.,Сборка войск пехотоподобного типа. Основное здания для пехоты у Роботической Эскалации.,组装步兵型部队。机械进化阵营的主要步兵建筑。
+430,build-robotFactory,Mechanoid Factory,Завод механоидов,机械体工厂
+431,build-robotFactory-info,Heavy vehicles spawn here. The main building for the vehicles for the Robotic Escalation faction.,Тяжелые машины появляются здесь. Основное здание для машин у Роботической Эскалации.,重型车辆在此下线。机械进化阵营的主要车辆建筑。
+432,build-robotGenerator,Reactor,Реактор,反应堆
+433,build-robotGenerator-info,Expands the available network power and allows for more buildings to be built without losing turret functionality or reducing troop production speed.,Расширяет допустимую мощность в сети и позволяет построить больше зданий без потери функциональности турелей и снижения скорости производства войск.,提升电网可用功率，使你可以建造更多建筑，而不会导致炮塔失效或部队生产速度下降。
+434,build-robotRefinery,Cleaning center,Очистной центр,净化中心
+435,build-robotRefinery-info,"A place where harvester drones deposit minerals, which then produces materials for construction and production. This is the main economic building.","Место, куда дроны сборщики складывают минералы, после чего вы получаете материю для строительства и производства. Основное экономическое здание.",采集无人机在此堆放矿产，随后转化为用于建造与生产的物资。这是主要的经济建筑。
+436,build-robotSilo,Storage,Хранилище,仓库
+437,build-robotSilo-info,Stores materials for army and base construction. Expands the maximum material supply.,Хранит материалы для постройки армии и строительства базы. Расширяет максимальный запас материалов.,储存用于组建部队与建造基地的物资，并提升物资的最大储量。
+438,build-plasmaTurret,Plasma turret,Плазменная турель,等离子炮塔
+439,build-plasmaTurret-info,A plasma cutter against enemy vehicles. Constant pure damage burns away any armor.,Плазменный резак против вражеской техники. Постоянный чистый урон выжигает цель любого бронирования.,针对敌方车辆的等离子切割器。持续的纯粹伤害可烧穿任何装甲。
+440,ability-artilleryGuid,Artillery guidance,Наведение артиллерии,火炮指引
+441,ability-artilleryGuid-info,"All artillery in ""Hold Position"" mode fires at the selected position at any range.
+
+This ability can be blocked if there is no artillery in the required mode.","Вся артиллерия в режиме поведения ""удерживать позицию"" обстреливает выбранную позицию на любой дистанции.
+
+Способность может быть заблокированна, если нет артиллерии в нужном режиме.","所有处于“坚守阵地”模式的火炮，无论距离远近都会轰击选定的位置。
+
+若没有火炮处于所需模式，该能力将无法使用。"
+442,ability-regroupHeal,Regrouping,Перегруппировка,重新集结
+443,ability-regroupHeal-info,Replenishes infantry squads and restores of their health.,Пополнение пехотных подразделений и восстановление их здоровья.,补充步兵班组并恢复其生命值。
+444,ability-exit,Exit,Выход,离开
+445,ability-exit-info,Leave the building or vehicle.,Выйти из помещения или транспорта.,离开所在的建筑或载具。
+446,ability-setMode,On/Off,Выключить/включить,开/关
+447,ability-setMode-info,Stops working or starts working depending on the current mode.,Прекращает работу или начинает работу в зависимости от текущего режима.,根据当前模式停止或开始运转。
+448,ability-craneArrow,Aim the arrow,Направить стрелу,调整吊臂
+449,ability-craneArrow-info,The crane directs the boom in the direction of the specified unit.,Кран направляет стрелу в направлении указанного юнита.,起重机会将吊臂转向指定单位的方向。
+450,ability-setupPos,Strengthening,Укрепление,加固
+451,ability-setupPos-info,Fortifies in place.,Укрепляется в текущей позиции.,就地设防。
+452,ability-setupState,Deployment,Развертывание,展开
+453,ability-setupState-info,"The object expands into a static object. In static mode, it folds back into a mobile object.","Объект разворачивается в статический объект. В статическом режиме наоборот, свёртывается в мобильный.",该单位可展开为固定单位。处于固定状态时，则可重新折叠回机动状态。
+454,ability-subArmore,Regenerative armor,Регенеративная броня,再生装甲
+455,ability-subArmore-info,"The regenerative armor overloads, granting additional durability to the vehicle. Be careful! Nearby infantry will take serious damage.
+
+Overloading can kill the vehicle if it has low durability.","Регенеративная броня перегружается и даёт дополнительную прочность машине. Осторожно! Ближайшая пехота получит серьёзный урон. 
+
+Перегрузка может убить машину, если у неё мало прочности.","再生装甲过载运行，为车辆提供额外结构值。小心！周围的步兵会受到严重伤害。
+
+若结构值过低，过载可能会导致车辆被摧毁。"
+456,ability-flakAmmo,Anti-aircraft shell,Зенитный снаряд,防空炮弹
+457,ability-flakAmmo-info,"The unit replaces its shells with anti-aircraft ones, allowing it to fire into the air and deal increased damage to infantry.",Юнит меняет снаряды на зенитные. Что даёт им возможность стрелять по воздуху и наносить повышенный урон по пехоте.,该单位换装防空炮弹，从而可以向空中开火，并对步兵造成更高伤害。
+458,ability-selectInBunker,Select units inside,Выбрать юнитов внутри,选择内部单位
+459,ability-selectInBunker-info,This object provides the ability to select units placed inside it.,Этот объект предоставляет возможность выбрать юнитов размещённых внутри него.,该单位支持选择驻扎在其中的单位。
+460,ability-forcedFire,Shelling of the territory,Обстрел территории,区域炮击
+461,ability-forcedFire-info,Forced shelling. Artillery will shell the selected area for approximately 10 seconds if there is a queued order.,Принудительный обстрел. Артиллерия будет обстреливать выбранную область около 10 секунд если есть очередь из приказов.,强制炮击。若存在待执行的命令队列，火炮将对选定区域炮击约 10 秒。
+462,ability-startHarvest,Get started,Начать работу,开始作业
+463,ability-startHarvest-info,"Automatically finds a suitable mineral and begins mining. If the storage facilities are nearly full, it will proceed to unload.","Автоматически находит подходящий минерал и начинает добычу. Если хранилища почти полные, поедет на выгрузку.",自动寻找合适的矿脉并开始开采。若仓储接近满载，将前往卸载。
+464,ability-harvDrop,Combine harvester reset,Сброс комбайна,空投采集机
+465,ability-harvDrop-info,The transporter brings a new combine to the battlefield.,Транспортник приносит новый комбайн на поле боя.,运输车将一台新的采集机运抵战场。
+466,ability-freeDefence,Security,Охрана,警卫部队
+467,ability-freeDefence-info,Call in 6 security squads. They can help hold back the enemy or support an offensive. No supplies are required for them.,Призыв 6-и отрядов охраны. Могут помочь в сдерживании противника или поддержать наступление. Снабжение за них не требуется.,征召 6 支警卫小队。他们可用于阻滞敌军或支援进攻。这些部队不占用补给。
+468,ability-regenStim,Regeneration stimulator,Стимулятор регенерации,再生刺激剂
+469,ability-regenStim-info,Restores health.,Восстанавливает здоровье.,恢复生命值。
+470,ability-mineSetup,Installation of mines,Установка мин,布雷
+471,ability-mineSetup-info,"Places pressure mines. The mines don't activate immediately. Be careful, you might run into them yourself.","Устанавливает мины нажимного действия. Мины активируются не сразу. Будьте осторожны, вы можете наехать на них и сами.",布设压发地雷。地雷不会立即激活。当心，你自己也可能压上它们。
+472,ability-scan,Scanning,Сканирование,扫描
+473,ability-scan-info,Opens the fog of war at the specified location..,Открывает туман войны в указанном месте,揭开指定位置的战争迷雾。
+474,ability-resReloc,Stop the delivery,Остановить привоз,停止运送
+475,ability-resReloc-info,Pauses resource summoning from the global map. Click again to resume.,Поставить на паузу призыв ресурсов с глобальной карты. Для возобновления нажать повторно.,暂停从全球地图调运资源。再次点击即可恢复。
+476,ability-repair,Repair,Ремонт,维修
+477,ability-repair-info,Select the target you want to repair.,"Выберите цель, которую хотите отремонтировать.",选择要维修的目标。
+478,ability-rocketLaunch,Rocket launch,Пуск ракеты,火箭发射
+479,ability-rocketLaunch-info,A tactical missile will inflict significant damage at the designated location. Reconnoiter the area before launching.,Тактическая ракета нанесёт существенный урон в указанную позицию. Перед пуском нужно разведать местность.,战术导弹将对指定位置造成重大伤害。发射前需先侦察该区域。
+480,ability-siegeMode,Artillery position,Артиллерийская позиция,火炮阵地
+481,ability-siegeMode-info,Shifts all systems to artillery mode. Fires at long range across an area.,Переводит все системы в артиллерийский режим. Ведёт огонь по области на дальние дистанции.,将所有系统切换到火炮模式。可对远距离区域进行射击。
+482,ability-smokeCurtain,Smoke screen,Дымовая завеса,烟幕
+483,ability-smokeCurtain-info,Smoke creates an obstacle to targeting both enemy and friendly troops.,"Дымы создают преграду для наведения на цели как вражеских войск, так и своих.",烟幕会同时妨碍敌方与己方部队瞄准目标。
+484,ability-artShot,Powerful shot,Мощный выстрел,强力射击
+485,ability-artShot-info,The main gun opens fire at the selected position/target.,Главное орудие открывает огонь по выбранной позиции/цели.,主炮向选定的位置/目标开火。
+486,support-carpetBomber,Incendiary trail,Зажигательный след,烈焰航迹
+487,support-carpetBomber-info,"Call in a heavy bomber for a napalm strike. The bomber could be shot down.
+
+Range: 3 sectors.","Вы вызываете тяжелый бомбовоз для напалмовой бомбардировки. Бомбардировщик могут сбить.
+
+Дальность 3 сектора.","呼叫重型轰炸机投掷凝固汽油弹。轰炸机可能会被击落。
+
+射程：3 个区块。"
+488,support-gasBomber,Gas bomb,Газовая бомба,毒气炸弹
+489,support-gasBomber-info,"Call in a heavy bomber to drop a gas bomb. The bomber could be shot down.
+
+Range: 3 sectors.","Вы вызываете тяжелый бомбовоз, для сброса газовой бомбы. Бомбардировщик могут сбить.
+
+Дальность 3 сектора.","呼叫重型轰炸机投掷毒气炸弹。轰炸机可能会被击落。
+
+射程：3 个区块。"
+490,support-combineDrop,Combine harvester reset,Сброс комбайна,空投采集机
+491,support-combineDrop-info,Drops the harvester onto the battlefield.,Сбрасывает комбайн на поле боя.,将采集机空投到战场上。
+492,support-heavyBomber,Heavy bombs,Тяжелые бомбы,重型炸弹
+493,support-heavyBomber-info,"You call in a heavy bomber, which drops 5 large bombs. The bombs deal area damage and deal increased damage in the center of the explosion. The bomber can be shot down.
+
+Range: 3 sectors.","Вы вызываете тяжелый бомбовоз, сбрасывающий 5 крупных бомб. Бомбы наносят урон по области и повышенный урон в центре взрыва. Бомбардировщик могут сбить.
+
+Дальность 3 сектора.","你呼叫的重型轰炸机会投下 5 枚大型炸弹。炸弹造成范围伤害，并在爆心处造成更高伤害。轰炸机可能会被击落。
+
+射程：3 个区块。"
+494,support-desant,Airdrop,Десант,空降
+495,support-desant-info,A small detachment of infantry is landing.,Десантирует небольшой отряд пехоты.,一支小型步兵分队正在空降着陆。
+496,support-scouting,Area illumination,Подсветка местности,区域照明
+497,support-scouting-info,Reveals the fog of war in the selected area for a long time.,Продолжительное время раскрывает туман войны в выбранной области.,长时间揭开选定区域内的战争迷雾。
+498,support-techReinforce,Build. reinforcements,Строй. подкрепление,建造增援
+499,support-techReinforce-info,Headquarters will urgently scrape together a few additional Parts.,Штаб в срочном порядке наскребёт немного дополнительных деталей.,司令部将紧急凑出一批额外的零件。
+500,support-interceptor,Interceptor,Перехватчик,截击机
+501,support-interceptor-info,"Call in a P-2 interceptor to maintain a constant patrol in the sky. It can also be used for aerial reconnaissance.
+Pairs perfectly with artillery.
+
+Range: 4 sectors.","Вызовите перехватчик ""П-2"", чтобы получить постоянный патруль в небе. Также можно использовать как разведку с воздуха.
+Идеально сочетается с артиллерией.
+
+Дальность 4 сектора.","呼叫 P-2 截击机，在空中维持不间断巡逻。它也可用于空中侦察。
+与火炮配合极佳。
+
+射程：4 个区块。"
+502,doctrine-bunkers,Bunkers,Бункеры,地堡
+503,doctrine-bunkers-info,"You can now build a bunker. Unlike turrets, it doesn't require electricity.","Теперь вы сможете строить бункер. В отличии от турелей, он не требует электричества.",现在你可以建造地堡了。与炮塔不同，地堡不需要电力。
+504,doctrine-energetics,Additional Generators,Доп. Генераторы,附加发电机
+505,doctrine-energetics-info,"Access to the generator extension is now available. The MSC also receives a portable generator, which provides a starting reserve of grid power.","Открывается доступ к генератору-пристройке. Мсц так же получает портативный генератор, который даёт стартовый запас сетевой мощности.",现已开放发电机扩建组件。机动建造车同样获得一台便携式发电机，可提供初始的电网功率储备。
+506,doctrine-harvDrop,Emergency call,Экстренный вызов,紧急呼叫
+507,doctrine-harvDrop-info,MPZs will be able to call in worker reinforcements in the form of an additional harvester. This is very useful if a harvester cannot be ordered at the factory.,"МПЗ смогут вызывать рабочее подкрепление ввиде дополнительного комбайна. Очень полезно, если нет возможности заказать комбайн на заводе.",MPZ 将能够呼叫作业增援，获得一台额外的采集机。当无法在工厂订购采集机时，这一点非常有用。
+508,doctrine-macroEco,Macroeconomics,Макро экономика,宏观经济
+509,doctrine-macroEco-info,"Allows you to build a Matter Fabricator. Passive resource gain, making it almost indispensable in the late game.
+It's explosive.","Даёт возможность строить фабрикатор материи. Пассивный прирост ресурсов, это почти незаменимая вещь на поздних стадиях игры.
+Вещь взрывоопасная.","允许建造物质合成器。可被动获得资源，在游戏后期几乎必不可少。
+它具有爆炸性。"
+510,doctrine-repairExpansion,Repair Expansion,Рем. Экспансия,维修扩建
+511,doctrine-repairExpansion-info,"In exchange for a crane, you get a Heavy Repair Vehicle, which provides a small construction square, repairs equipment well, and can change its location.","Взамен крана вы получаете Тяжелую Ремонтную машину, которая даёт небольшой квадрат строительства, хорошо ремонтирует технику и может менять своё место дислокации.",以起重机换取重型维修车。重型维修车提供一片较小的建造区域，维修装备效率高，并且可以变更部署位置。
+512,doctrine-tacticalRockets,Tactical missiles,Тактические ракеты,战术导弹
+513,doctrine-tacticalRockets-info,"Experimental Launch Fabricator Silo, produces heavy missiles with high explosive warheads and controls their launches.","Экспериментальная пусковая фабрикаторная шахта, производит тяжелые ракеты с фугасной боевой частью и управляет их запусками.",实验型发射合成井，用于生产装有高爆战斗部的重型导弹，并控制其发射。
+514,doctrine-heavyTurrets,Heavy turrets,Тяжелые турели,重型炮塔
+515,doctrine-heavyTurrets-info,"The AK-125 turret is effective against light, medium, and heavy vehicles. Its reinforced base provides increased strength, and its observation devices provide a greater range of engagement.","Турель ""АК-125"" эффективна против легких, средних и тяжелых машин. Благодаря усиленному основанию имеет большую прочность, а смотровые приборы обеспечивают большую дальность поражения целей.
+",「AK-125」炮塔对轻型、中型和重型载具都很有效。加固底座赋予它更高的结构强度，而观瞄设备则提供更远的交战距离。
+516,doctrine-flamerTurrets,Flamethrower turrets,Огнемётные турели,喷火炮塔
+517,doctrine-flamerTurrets-info,"Sets the terrain ablaze. The temperature of the released mixture allows it to destroy even light vehicles.
+
+Ideal for destroying large concentrations of enemies.","Поджигает местность. Температура выпускаемой смеси позволяет поражать даже легкую технику.
+
+Идеально подходит для уничтожения больших скоплений противника.","点燃地面。所喷射混合物的温度足以摧毁轻型载具。
+
+非常适合消灭大量集结的敌人。"
+518,doctrine-mgTurrets,Machine gun turrets,Пулемётные турели,机枪炮塔
+519,doctrine-mgTurrets-info,"The AK-30 anti-aircraft mobile turrets have a high rate of fire and damage to infantry. They can effectively engage light vehicles and aerial targets.
+
+They can move and dig in. Once dug in, the turret loses its ability to move.","Зенитные мобильные турели ""АК-30"" обладают высокой скорострельностью и уроном по пехоте. Могут эффективно поражать легкую технику и воздушные цели.
+
+Обладают возможностью перемещения и окапывания. После окапывания возможность переместить турель теряется.","「AK-30」自行防空炮塔射速高，对步兵伤害可观，可以有效打击轻型载具和空中目标。
+
+它可以机动并掘壕。一旦掘壕完毕，炮塔就无法再移动。"
+520,doctrine-assault,Assault Doctrine,Доктрина штурма,突击学说
+521,doctrine-assault-info,Unlocks a range of weapons for assault and clearing. Allows for frontal assaults and direct clashes.,Открывает ряд вооружений для штурма и зачистки. Подразумевает лобовые атаки и прямые столкновения.,解锁一系列用于突击和清剿的武器。适合正面强攻与直接交锋。
+522,doctrine-repairability,Maintainability,Ремонтопригодность,可维修性
+523,doctrine-repairability-info,"If the combine is damaged, it can be repaired.","Если комбайн поврежден, его можно отремонтировать.",采集机受损后可以进行维修。
+524,doctrine-medic,Mobile headquarters,Передвижные штабы,机动司令部
+525,doctrine-medic-info,Allows you to build a mobile infantry camp.,Даёт возможность строить передвижной пехотный лагерь.,允许建造机动步兵营地。
+526,doctrine-prototypes,Prototypes,Прототипы,原型装备
+527,doctrine-prototypes-info,Mercenaries will have the opportunity to offer ancient super-heavy vehicles or prototypes based on lost technologies.,У наёмников появится возможность предлагать древние сверхтяжелые машины или прототипы основанные на утерянных технологиях.,雇佣军将有机会提供古老的超重型载具，或是基于失落技术的原型装备。
+528,doctrine-purger,Cleansing Doctrine,Доктрина зачистки,清剿学说
+529,doctrine-purger-info,A fast and dangerous flamethrower APC with a heavy assault tank for breaking through fortifications.,Быстрый и опасный огнемётный БТР с тяжелым штурмовым танком для прорыва укреплений.,快速而危险的喷火装甲输送车，搭配用于突破防御工事的重型突击坦克。
+530,doctrine-rszo,MLRS,РСЗО,火箭炮
+531,doctrine-rszo-info,Replaces the Molot barrel artillery with the Topaz MLRS.,"Заменяет ствольную артиллерию ""Молот"" на РСЗО ""Топаз"".",将「铁锤」身管火炮替换为「黄玉」火箭炮。
+532,doctrine-siege,Siege Doctrine,Доктрина осады,攻城学说
+533,doctrine-siege-info,The Siege Doctrine unlocks a range of siege weapons. It involves superior firepower and massive artillery bombardment.,Осадная доктрина открывает доступ к ряду осадных вооружений. Подразумевает превосходящую огневую мощь и массированные обстрелы артиллерией.,攻城学说解锁一系列攻城兵器。意在凭借压倒性火力与大规模炮火轰炸取胜。
+534,doctrine-support,Doctrine of Support,Доктрина поддержки,支援学说
+535,doctrine-support-info,Unlocks access to a heavy infantry fighting vehicle.,Открывает доступ к тяжелому БМП.,解锁重型步兵战车。
+536,doctrine-tanks,Tank doctrine,Танковая доктрина,坦克学说
+537,doctrine-tanks-info,A capacious armored personnel carrier with a heavy anti-aircraft machine gun and a main battle tank with an anti-tank gun. A versatile doctrine for any situation.,Вместительный БТР с зенитным крупнокалиберным пулемётом и основной боевой танк с противотанковой пушкой. Универсальная доктрина для любой ситуации.,载员充裕的装甲输送车配备重型防空机枪，外加装备反坦克炮的主战坦克。适用于任何战况的通用学说。
+538,doctrine-armoredInfantry,Armored infantry,Бронепехота,装甲步兵
+539,doctrine-armoredInfantry-info,Opens an infantry squad with a heavy Praetorian paratrooper.,Открывает отряд пехоты с тяжелым десантником преторианцем.,解锁编有重型「禁卫军」伞兵的步兵小队。
+540,doctrine-barracksGrades,Barracks towers,Башни казармы,兵营塔
+541,doctrine-barracksGrades-info,"The Barracks receives a number of local upgrades to choose from. The Medic Tower quickly heals infantry in a square, while the Infantry Tower allows for a larger and more powerful squad of ranged units.","Казармы получают ряд локальных улучшений на выбор. Медицинская башня быстро лечит пехоту в квадрате, а Пехотная башня позволяет использовать более крупный и сильный отряд стрелков.",兵营可获得多项局部升级以供选择。医疗塔能快速治疗方格内的步兵，而步兵塔则可编成规模更大、战斗力更强的远程部队。
+542,upgrade-siegeHowitzer,Siege Howitzer,Осадная гаубица,攻城榴弹炮
+543,upgrade-siegeHowitzer-info,"The dreadnought's turret is being replaced with a heavy howitzer platform.
+
+Can't fire on the move.","Башня дредноута заменяется на тяжелую платформу с бомбардой.
+
+Не может вести огонь на ходу.","无畏的炮塔将被替换为重型榴弹炮平台。
+
+无法在移动中开火。"
+544,upgrade-sideArmore,Screens,Экраны,侧裙板
+545,upgrade-sideArmore-info,Some protection on the sides.,Небольшая защита по сторонам.,侧面提供一定防护。
+546,upgrade-medBunker,Med. Bunker,Мед. Бункер,医疗碉堡
+547,upgrade-medBunker-info,Bunker. Heals infantry in the area.,Бункер. Лечит пехоту в области.,碉堡。可治疗区域内的步兵。
+548,upgrade-autoCannons,Autocannons,Автопушки,自动炮
+549,upgrade-autoCannons-info,Sponson-mounted guns. Strong against vehicles.,Пушки в спонсонах. Сильны против техники.,侧舷安装的火炮，对车辆威力显著。
+550,upgrade-heavyFlamers,Heavy flamethrowers,Тяжелые огнемёты,重型喷火器
+551,upgrade-heavyFlamers-info,Equips the tank with heavy flamethrowers. They set the surface on fire and inflict massive damage on infantry.,Оснащает танк тяжелыми огнемётами. Поджигают поверхность и наносят огромный урон пехоте.,为坦克加装重型喷火器。可点燃地面，并对步兵造成巨大伤害。
+552,upgrade-harvRocket,Missile turret,Ракетная турель,导弹炮塔
+553,upgrade-harvRocket-info,The Combine gets a missile turret on the roof for self-defense.,Комбайн получает ракетную турель на крышу. Для самообороны.,采集机在车顶加装导弹炮塔，用于自卫。
+554,upgrade-horn,Grommophone,Громофон,雷音机
+555,upgrade-horn-info,Grommophone that inspires fighters and enhances their physical abilities.,Громофон воодушевляющий бойцов и усиливающий их физические способности.,能够鼓舞战士士气并强化其体能的雷音机。
+556,upgrade-mgTurrets,Machine gun turrets,Пулемётные турели,机枪炮塔
+557,upgrade-mgTurrets-info,The vehicle is equipped with machine gun turrets.,Техника оснащается пулемётными турелями.,为车辆加装机枪炮塔。
+558,upgrade-rocketTurrets,Missile turrets,Ракетные турели,导弹炮塔
+559,upgrade-rocketTurrets-info,The vehicle is equipped with missile turrets.,Техника оснащается ракетными турелями.,为车辆加装导弹炮塔。
+560,upgrade-medBlock,Medical block,Мед. блок,医疗舱
+561,upgrade-medBlock-info,Slowly restores health to infantry in a large square.,Медленно восстанавливает здоровье пехоты в большом квадрате.,缓慢恢复大方格内步兵的生命值。
+562,upgrade-medTower,Medical tower,Мед. башня,医疗塔
+563,upgrade-medTower-info,The tower additionally heals infantry in a small square.,Вышка дополнительно лечит пехоту в небольшом квадрате.,该塔可额外治疗小方格内的步兵。
+564,upgrade-mineKit,Minefields,Минные поля,雷区
+565,upgrade-mineKit-info,Mine-laying kit,Набор для установки мин.,布雷套件
+566,upgrade-massFlaks,Flak,Зенитная Артиллерия,高射炮
+567,upgrade-massFlaks-info,Replaces the Armored Car with the Vykhlop anti-aircraft mount.,"Заменяет Бронемашину на зенитную установку ""Выхлоп"".",将装甲侦察车替换为「废气」自行高炮。
+568,upgrade-repMobility,Mobility,Мобильность,机动性
+569,upgrade-repMobility-info,Allows the repair site to move.,Позволяет ремонтной площадке перемещаться.,使维修平台能够移动。
+570,upgrade-infantryTower,Infantry tower,Башня пехоты,步兵塔
+571,upgrade-infantryTower-info,The infantry turret replaces the standard riflemen with a larger squad of regular infantry. The turret can also fire a high-caliber sniper rifle.,Башня пехоты заменяет обычных стрелков на более крупный отряд регулярной пехоты. Так же башня может отстреливаться из крупнокалиберной снайперской винтовки.,步兵塔将普通步枪兵替换为规模更大的正规步兵班。该塔还可发射大口径狙击步枪。
+572,upgrade-trenching,Strengthening,Укрепление,加固
+573,upgrade-trenching-info,"The trench is reinforced with supports and a roof, turning it into a small bunker.",Окоп усиливается опорами и крышей превращаясь в небольшой бункер.,战壕加装支撑与顶盖，变为小型碉堡。
+574,upgrade-barricades,Barricades,Баррикады,街垒
+575,upgrade-barricades-info,"Additional barricades are erected around the turret, increasing its survivability. The ability to move the turret (if any) is lost.","Вокруг турели возводятся дополнительные баррикады, что повышает её живучесть. Возможность перемещать турель теряется (при наличии).",在炮塔周围加筑街垒，提升其生存能力。但会失去移动炮塔的能力（若有）。
+576,upgrade-nars,Unguided rockets,Неуправляемые ракеты,无制导火箭弹
+577,upgrade-nars-info,The combat unit is armed with unguided missiles.,Боевая единица вооружается неуправляемыми ракетами.,该作战单位装备无制导火箭弹。
+578,upgrade-miniCrane,Mini crane,Мини кран,小型起重机
+579,upgrade-miniCrane-info,A small crane-shaped extension opens an additional construction queue for the building. Two different buildings can be built simultaneously.,Мелкая пристройка ввиде крана открывает в здании дополнительную очередь для строительства. Можно будет строить 2 разных здания за раз.,小型起重机式扩展部件为建筑开启额外的建造队列，可同时建造两座不同的建筑。
+580,item-apShells,Armor-piercing shells,Бронебойные снаряды,穿甲弹
+581,item-apShells-info,Increased penetrating mass in projectiles increases damage to vehicles.,Увеличенная пробивающая масса в снарядах повышает урон по технике.,弹丸穿甲质量提升，对车辆造成的伤害提高。
+582,item-areaResist,Anti-explosive layer,Противофугасный слой,防爆层
+583,item-areaResist-info,Increases the vehicle's resistance to area damage at the cost of direct damage protection.,Увеличивает стойкость машины против урона по области взамен защиты от прямого урона.,提高车辆对范围伤害的抗性，代价是直接伤害防护下降。
+584,item-armoreAdd,Armored lining,Бронированный подбой,装甲内衬
+585,item-armoreAdd-info,"Through the magic of engineering, we've found a place for additional armor in vehicles. It increases armor.","Магическим образом инженерии, мы нашли место для дополнительной брони в машинах. Усиливает бронирование.",借助工程学的魔力，我们在车辆中找到了加装装甲的空间，可提升装甲值。
+586,item-artilleryLoader,Artillery automatic loader,Артиллерийский автомат заряжания,火炮自动装弹机
+587,item-artilleryLoader-info,"More powerful artillery autoloaders. They speed up the reloading of artillery cannons, but require more space, which reduces durability.","Более мощные артиллерийские автоматы заряжания. Ускоряют перезарядку артиллерийских пушек, но требуют больше места, что сказывается на прочности.",功率更强的火炮自动装弹机，可加快火炮装填速度，但占用更多空间，导致结构值下降。
+588,item-canonsLoader,Universal automatic loader,Универсальный автомат заряжания,通用自动装弹机
+589,item-canonsLoader-info,"More versatile automatic loaders. They are also more compact, but less efficient.","Более универсальные автоматы заряжания. Они так же более компактны, но менее эффективны.",通用性更强的自动装弹机，结构也更紧凑，但效率较低。
+590,item-compositAdd,Additional Composite,Дополнительный Композит,附加复合装甲
+591,item-compositAdd-info,"The fighting compartment accommodates additional armor dimensions, reducing the space for automatic loaders and weapon loading areas.","В боевом отделении размещается дополнительный габарит бронирования, уменьшая объём автоматов заряжания и областей для заряжания оружия.",战斗室可容纳尺寸更大的装甲，代价是自动装弹机与武器装填区的空间减少。
+592,item-concrete,Super concrete,Супер-бетон,超级混凝土
+593,item-concrete-info,Increasing the strength of buildings.,Увеличение прочности построек.,提高建筑物的结构值。
+594,item-explShells,Enhanced land mine,Усиленный фугас,强化高爆弹
+595,item-explShells-info,More explosives in shells. More damage to infantry and buildings.,Больше взрывчатки в снарядах. Больше урона по пехоте и зданиям.,炮弹装药更多，对步兵与建筑的伤害更高。
+596,item-firePayload,Incendiary payload,Зажигательная полезная нагрузка,燃烧载荷
+597,item-firePayload-info,"Your shells now carry an incendiary payload that burns the landing site of the shell, at the cost of penetration.","В ваших снарядах теперь есть место под зажигательную смесь, которая пожигает место приземления снаряда, взамен пробивной способности.",炮弹如今可携带燃烧载荷，点燃弹着点区域，代价是穿甲能力下降。
+598,item-fireSuit,Fireproof suit,Огнезащитный костюм,防火服
+599,item-fireSuit-info,A special fire-resistant layer is built into the soldier's gear. It protects against fires.,В снаряжение солдата встраивается специальный огнеупорный слой. Защищает от пожарищ.,士兵装备中内置特殊防火层，可抵御火焰。
+600,item-gasPayload,Gas payload,Газовая полезная нагрузка,毒气载荷
+601,item-gasPayload-info,"Your projectiles now have a gas charge slot. A gas cloud appears in the area of effect, suffocating enemies. The gas can be detonated.","В ваших снарядах теперь есть место под газовый заряд. В области применения появляется облако газа, которое удушает врагов. Газ можно взорвать.",炮弹如今预留了毒气装药位。作用区域内会生成毒气云，令敌人窒息。毒气可以引爆。
+602,item-infantryAddHp,Enhanced health,Усиленное здоровье,强化生命值
+603,item-infantryAddHp-info,A complex of modifications for living organisms that increases overall survivability. Side effects are present.,"Комплекс модификаций для живых организмов, который поднимает общую выживаемость. Побочные эффекты присутствуют.",一套针对生物体的综合改造方案，可全面提升生存能力。存在副作用。
+604,item-infantryExtraHp,Bulletproof vests,Бронежилеты,防弹衣
+605,item-infantryExtraHp-info,Disposable infantry body armor. We do not issue replacements if lost.,Одноразовые пехотные бронежилеты. При потере новые не выдаём.,一次性步兵防弹衣。遗失后不再补发。
+606,item-morePayloads,More payload,Больше полезной нагрузки,更多载荷
+607,item-morePayloads-info,"If your projectiles contain an incendiary, gas, or toxic charge, their duration and area of effect are increased.
+Otherwise, this modification is useless.","Если в ваших снарядах есть зажигательный, газовый или токсичный заряд. Его время и область увеличивается.
+В ином случае эта модификация бесполезна.","若炮弹装有燃烧、毒气或毒性装药，其持续时间与作用范围将提升。
+否则该改装毫无用处。"
+608,item-radio,Radio station,Радиостанция,无线电台
+609,item-radio-info,Slightly increases attack range.,Немного увеличивает дальность атаки.,略微提升攻击距离。
+610,item-scope,Panoramic sight,Панорамный прицел,全景瞄准镜
+611,item-scope-info,"Increases attack range, but requires armor space to place it.","Увеличивает дальность атаки, но требует места в броне для размещения.",提升攻击距离，但需要占用装甲空间进行安装。
+612,item-steel,Special steel,Особая сталь,特种钢
+613,item-steel-info,Vehicles receive increased armor in exchange for overall durability.,Машины получают усиление бронирования взамен на общую прочность.,车辆获得更高的装甲值，代价是整体结构值下降。
+614,item-stimulators,Stimulants,Стимуляторы,兴奋剂
+615,item-stimulators-info,Stimulants for long-distance marches.,Допинг для дальних маршевых бросков.,用于长途行军的兴奋剂。
+616,item-subcalShells,Sub-caliber combat load,Подкалиберная боевая нагрузка,次口径战斗载荷
+617,item-subcalShells-info,Greatly increases damage to vehicles in exchange for versatility.,Сильно увеличивает урон по технике взамен универсальности.,大幅提升对车辆的伤害，代价是通用性下降。
+618,item-turretRot,Tower drive,Башенный привод,炮塔驱动装置
+619,item-turretRot-info,Transfers power from the engine to the turret drive and increases its traverse speed.,Переводит мощность с двигателя на привод турели и увеличивает её скорость поворота.,将发动机功率转移至炮塔驱动装置，提高其旋转速度。
+620,tutorial,Tutorial,Обучение,教程
+621,startScreen-demo,"Who treads the path of victory, 
+I salute you!
+
+<size=30>
+You are given the opportunity to experience the war machine of the Fourth Industrial Empire.
+
+The purpose of this demo is to showcase RTS battles without a global map.
+
+Good luck, General.
+</size>","Победоносной поступью идущий, 
+приветствую тебя!
+<size=30>
+Вам предоставлена возможность испытать военную машину четвёртой промышленной империи.
+
+Задача этого демо — продемонстрировать RTS сражения 
+без глобальной карты.
+
+Удачи, Генерал.
+</size>","迈向胜利之路的将军，
+我向您致敬！
+
+<size=30>
+您将有机会亲身体验第四工业帝国的战争机器。
+
+本演示的目的是展示不依赖全球地图的 RTS 战斗。
+
+祝您好运，将军。
+</size>"
+622,startScreen2-demo,"Hello!
+
+<size=30>
+Please run this demo through Steam.
+The game will participate in the store's statistics, and this will help the project.
+
+If the demo isn't available, ""Dust Front RTS"" has pulled back to regroup, resupply its artillery, and replenish provisions so it can return with renewed strength. 
+Development continues.
+</size>","Привет! 
+<size=30>
+Пожалуйста, запустите это демо через Steam.
+Игра поучаствует в статистике магазина и это поможет проекту.
+
+Если демо не доступно, значит ""Dust Front RTS"" отправился на перегруппировку, пополнить артиллерийские боеприпасы и пополнить провизию, чтобы вернутся с новыми силами. 
+Разработка не стоит на месте.
+</size>","您好！
+
+<size=30>
+请通过 Steam 运行本演示。
+游戏将参与商店的数据统计，这将对本项目的推进有所帮助。
+
+若本演示不可用，说明《Dust Front RTS》已后撤整编、补充火炮弹药与给养，将以全新的力量归来。 
+开发工作从未停步。
+</size>"
+623,endScreen-demo,"Thank you for playing!
+<size=25>
+The full version will feature more content, including other units, buildings, missions, and, of course, the core of the game — conquest on a global map.
+
+Try other difficulty levels, enemy base sizes, and units — the game can offer a different experience.
+</size>","Благодарю за игру!
+<size=25>
+В полноценной версии будет доступно больше контента в виде других юнитов, построек, миссий и, конечно же, сути игры — завоеваний на глобальной карте.
+
+Попробуйте другие сложности, размеры баз противника и юнитов — игра может предоставить разный опыт.
+</size>","感谢您的游玩！
+<size=25>
+完整版将带来更丰富的内容——更多的单位、建筑与任务，当然还有游戏的核心：全球地图上的征服。
+
+不妨试试其他难度、敌方基地规模与部队配置——游戏会带来截然不同的体验。
+</size>"
+624,demo-currentElevation,Current elevation,Текущее возвышение,当前强化
+625,demo-elevation-x1,Ordinary Force,Обычная сила,常规强度
+626,demo-elevation-x2,Elevation x2,Возвышение x2,强化 x2
+627,demo-elevation-x3,Elevation x3,Возвышение х3,强化 x3
+628,demo-elevation-x1-Info,The strength/health parameter of enemy objects is normal.,Параметр прочности/здоровья вражеских объектов обычный.,敌方目标的强度/生命值参数为常规水平。
+629,demo-elevation-x2-Info,The strength/health parameter of enemy objects: X2,Параметр прочности/здоровья вражеских объектов: X2,敌方目标的强度/生命值参数：X2
+630,demo-elevation-x3-Info,The strength/health parameter of enemy objects: X3,Параметр прочности/здоровья вражеских объектов: X3,敌方目标的强度/生命值参数：X3
+631,demo-fightingFor,You are fighting for the fourth industrial empire.,Вы сражаетесь за четвёртую промышленную империю.,您正为第四工业帝国而战。
+632,demo-achivInfo,The value indicates the maximum difficulty multiplier.,Значение указывает максимальный множитель сложности.,该数值表示已达成的最大难度倍率。
+633,demo-newRecord,New difficulty record!,Побит рекорд сложности!,刷新难度纪录！
+634,demo-achiv-base1,For enemy base siege victory.,За победу в осаде вражеской базы.,因成功围攻敌方基地。
+635,demo-achiv-base2,For victory in the siege of an x2 base,За победу в осаде базы размером х2,因成功围攻 x2 规模基地。
+636,demo-achiv-base3,For victory in the siege of an x3 base,За победу в осаде базы размером х3,因成功围攻 x3 规模基地。
+637,demo-achiv-base4,For victory in the siege of an x4 base,За победу в осаде базы размером х4,因成功围攻 x4 规模基地。
+638,demo-achiv-popupTitle,New achievement has been obtained!,Получено новое достижение!,获得新成就！
+639,tip-demoShiftSetup,Hold shift to setup units or settings faster.,Зажмите шифт для ускоренной настройки и добавления.,按住 Shift 可更快地部署单位或调整设置。
+640,wishlist-text-0,Add the game to your wishlist if you liked the demo!,"Добавляйте игру в список желаемого, если вам понравилось демо!",如果喜欢本演示，请将游戏加入愿望单！
+641,wishlist-text-1,"Thank you, you will be notified when the game is released!","Спасибо, вы будете уведомлены о выходе игры!",谢谢您，游戏发售时您将收到通知！
+642,openSteam,Open Steam,Открыть Steam,打开 Steam
+643,addToWishlist,Add to wishlist,Добавить в желаемое,加入愿望单
+644,tutorial-gui-name,Interface Tutorial,Туториал по интерфейсу.,界面教程
+645,tutorial-overall-name,General Tutorial,Общий туториал.,综合教程
+646,tutorial-deploy-0,This is the army you have selected. They need to be placed on the battlefield to start the battle.,"Это войска, которые вы выбрали. Их нужно разместить на поле боя для начала битвы.",这是您所选择的部队。需要将他们部署到战场上，战斗才会开始。
+647,tutorial-deploy-0a,You can also adjust the formation size by scrolling the mouse wheel.,Вы также можете менять размер формации вращением колеса мыши.,您也可以滚动鼠标滚轮来调整队形大小。
+648,tutorial-deploy-1,"Once you have deployed all units, the battle start button will appear. 
+
+Press it when you are ready.","Как только вы разместите всех юнитов, появится кнопка начала сражения. 
+
+Нажмите её, когда будете готовы.","一旦您部署完所有单位，开始战斗的按钮就会出现。 
+
+准备就绪后点击它。"
+649,tutorial-deploy-2,"This panel is for tactical abilities. They are set on the global map, but presets are available for the demo.
+","Эта панель — тактические способности. Они задаются на глобальной карте, но для демо доступны предустановленные.
+","此面板用于战术技能。它们本应在全球地图上设定，但演示中已为您提供预设方案。
+"
+650,tutorial-deploy-3,"Your current objectives are shown here. 
+Main objectives are in white.
+Secondary objectives are in yellow.
+
+Currently, you only have main (mandatory) objectives.","Здесь отмечаются ваши текущие задачи. 
+Основные — белым цветом.
+Дополнительные — жёлтым.
+
+Сейчас у вас только основные (обязательные) задачи.","此处显示您当前的任务目标。 
+主要目标为白色。
+次要目标为黄色。
+
+目前您只有主要（必做）目标。"
+651,tutorial-deploy-3a,Objectives of this battle:,Задачи этой битвы:,本场战斗的目标：
+652,tutorial-deploy-3b,"You need to control three zones. Each provides passive resource income.
+
+The enemy will try to take them back. To capture, hold army or buildings in the zone.","Нужно контролировать три зоны. Каждая даёт пассивный доход ресурсами.
+
+Враг будет их отбивать. Для захвата удерживайте войска или постройки в зоне.","您需要控制三片区域。每片区域都会提供被动资源收入。
+
+敌人会试图夺回它们。要占领区域，需在区域内驻守部队或建筑。"
+653,tutorial-deploy-3c,"You also need to destroy key enemy buildings.
+They are marked on the minimap.
+
+You will be defeated if your own buildings are destroyed.","Вам также нужно уничтожить ключевые здания врага. 
+Они отмечены на миникарте.
+
+Вы потерпите поражение, если ваши постройки будут уничтожены.","您还需要摧毁敌方的关键建筑。
+它们已在小地图上标出。
+
+若我方建筑被摧毁，您将战败。"
+654,tutorial-deploy-4,"The minimap shows points with objects.
+
+<color=#808080>Gray points</color> — neutral.
+<color=#FF4444>Red points</color> — enemy.
+<color=#44FF44>Green points</color> — allied.
+<color=#A47068>Dark orange</color> — resources.
+<color=#7ECAE5>Blue symbols</color> indicate main objective objects.
+
+Circles mark capture points.","На миникарте отображены точки с объектами.
+
+<color=#808080>Серые точки</color> — нейтральные.
+<color=#FF4444>Красные точки</color> — вражеские.
+<color=#44FF44>Зелёные точки</color> — ваши.
+<color=#A47068>Тёмно-оранжевые</color> — ресурсы.
+<color=#7ECAE5>Синие символы</color> означают объекты главного задания.
+
+Кругами отмечены точки для захвата.
+","小地图上显示着代表各目标的点位。
+
+<color=#808080>灰色点位</color> — 中立。
+<color=#FF4444>红色点位</color> — 敌方。
+<color=#44FF44>绿色点位</color> — 我方。
+<color=#A47068>深橙色</color> — 资源。
+<color=#7ECAE5>蓝色符号</color> 表示主要任务目标。
+
+圆形标记的是可供占领的据点。"
+655,tutorial-deploy-5,Camera movement:,Перемещение камеры:,镜头移动：
+656,tutorial-deploy-5a,Keyboard:,На клавиатуре:,键盘：
+657,tutorial-deploy-5b,Holding the mouse wheel:,Удерживая колесо мыши:,按住鼠标滚轮：
+658,tutorial-deploy-5c,"You can also move the camera by screen edges.
+
+To zoom in and out, hold left ALT and scroll the mouse wheel.","Также есть перемещение камеры по краям экрана.
+
+Чтобы приближать и отдалять камеру, удерживайте левый ALT и крутите колесо мыши.","也可以通过将光标移到屏幕边缘来移动镜头。
+
+要拉近或拉远镜头，请按住左侧 ALT 并滚动鼠标滚轮。"
+659,tutorial-gui-0,"These are your primary resources.
+
+With <color=#FF7078><size=25>materials</size></color> you build your army and structures.
+
+<color=#FFFFFF><size=25>Supply limit</size></color> — for maintaining troops on the map.
+
+<color=#FF0000><size=25>Parts</size></color> allow you to develop technologies.
+
+<color=#99CDFF><size=25>Network power</size></color> powers your buildings.","Это ваши основные ресурсы.
+
+За <color=#FF7078><size=25>материалы</size></color> вы строите армию и здания.
+
+<color=#FFFFFF><size=25>Лимит снабжения</size></color> — для содержания войск на карте.
+
+<color=#FF0000><size=25>Детали</size></color> позволяют вам строить технологии.
+
+<color=#99CDFF><size=25>Сетевая мощность</size></color> питает ваши постройки.","这些是您的主要资源。
+
+使用 <color=#FF7078><size=25>物资</size></color> 建造部队与建筑。
+
+<color=#FFFFFF><size=25>补给上限</size></color> — 用于维持地图上的部队。
+
+<color=#FF0000><size=25>零件</size></color> 可供您研发科技。
+
+<color=#99CDFF><size=25>电网功率</size></color> 为您的建筑供能。"
+660,tutorial-gui-1,"This area depends on context.
+
+Selected group — shown when regular units are selected.
+
+When selecting a building with options — its options will be shown.","Эта область зависит от контекста.
+
+Выделенная группа — при выделении обычных юнитов.
+
+При выборе здания с опциями — покажутся опции.","该区域的内容随所选对象而变化。
+
+选中普通单位时显示所选编队。
+
+选中带有可选项的建筑时，则显示其选项。"
+661,tutorial-gui-2,"Construction buildings have a second tab with special and defensive structures.
+
+Press ""~"" (tilde) to switch tabs.","У строительных зданий есть вторая вкладка с особыми и оборонительными постройками.
+
+Переключение — клавиша ""~"" (тильда).","建造类建筑还有第二个标签页，内含特殊建筑与防御建筑。
+
+按 “~”（波浪号）键可切换标签页。"
+662,tutorial-gui-3,The abilities are displayed here (if any).,Здесь отображаются способности (при наличии).,技能显示在此处（若有）。
+663,tutorial-gui-4,"Clicking on a unit's image moves the camera to it.
+
+Here you can set the attack priority by type.","Нажатие на изображение юнита перемещает камеру к нему.
+
+Здесь можно настроить приоритет атаки по типу.","点击单位的头像可将镜头移至该单位。
+
+您可以在此处按类型设置攻击优先级。"
+664,tutorial-gui-5,"Unit selection elements using hotkeys. Displayed on screen.
+
+F1 — all builders (MCV and Cranes)
+F2 — all combat units
+F3 — all units","Элементы выделения юнитов горячими клавишами. Отображаются на экране.
+
+F1 — все строители (МСЦ и Краны)
+F2 — все боевые юниты
+F3 — все юниты","使用快捷键选择单位的功能项，会显示在屏幕上。
+
+F1 — 所有建造单位（机动建造车与建造起重机）
+F2 — 所有作战单位
+F3 — 所有单位"
+665,tutorial-gui-6,"Hold ""Ctrl"" or ""T"" + number to create quick access groups.
+
+Groups will appear to the right of F2 and F3.","Удерживайте ""Ctrl"" или ""T"" + number, чтобы создать группы быстрого доступа.
+
+Группы появятся справа от клавиш F2 и F3.","按住 “Ctrl” 或 “T” + 数字，即可创建快捷编组。
+
+编组会显示在 F2 与 F3 的右侧。"
+666,tutorial-basic-0,Building Construction,Строительство зданий,建筑建造
+667,tutorial-basic-0a,"Build refineries for resources. Barracks and war factories for army.
+
+The more, the better. You need a large base to succeed.","Стройте заводы переработки для ресурсов. Казармы и военные заводы — для войск.
+
+Чем больше, тем лучше. Для успеха нужна большая база.","建造精炼厂以取得资源。建造兵营与机械制造厂以组建部队。
+
+多多益善。要取得胜利，就需要一座庞大的基地。"
+668,tutorial-basic-0b,"To build, select the ""MCV"" or ""Construction Crane"".
+
+Then, in the menu, choose the structure and select a location.","Для строительства выберите ""МСЦ"" или ""Строительный Кран"".
+
+После, в открытом меню выберите постройку и укажите место строительства.","要建造，请先选中“机动建造车”或“建造起重机”。
+
+随后在打开的菜单中选择建筑并指定建造位置。"
+669,tutorial-basic-0c,"For mass construction, select multiple objects with build options.
+
+Press the hotkey for the option, choose the zone — the system will automatically switch to the next object.","Для массового строительства выберите несколько объектов с опциями.
+
+Нажмите горячую клавишу опции, выберите зону — система сама переключится на следующий объект.","要批量建造，请先选中多个具有建造选项的对象。
+
+按下该选项的快捷键并选择区域——系统会自动切换到下一个对象。"
+670,tutorial-basic-1,Ordering/Producing Units,Заказ/производство юнитов,单位订购/生产
+671,tutorial-basic-1a,"Produce troops. Your strength lies in numbers.
+
+Manage your resources to ensure you have enough for both a large army and economic development.","Производите войска. Ваша сила — в количестве.
+
+Управляйте ресурсами так, чтобы хватало и на большую армию, и на развитие экономики.","不断生产部队。您的力量在于数量。
+
+合理调配资源，既要供养庞大的军队，也要兼顾经济发展。"
+672,tutorial-basic-2,Selecting Objects,Выделение объектов,选择对象
+673,tutorial-basic-2a,"Drag a box to select buildings and units.
+
+Double-click a unit to select all of the same type on the map.
+
+Shift — add to selection. Ctrl — remove from selection.","Выделяйте здания и юнитов рамкой.
+
+Двойной клик по юниту выделяет всех того же типа на карте.
+
+Shift — добавить к выделению. Ctrl — убрать из выделения.","拖拽出选框即可框选建筑与单位。
+
+双击某个单位可选中地图上所有同类单位。
+
+Shift — 加入选择。Ctrl — 从选择中移除。"
+674,tutorial-basic-3,Unit Control,Управление юнитами,单位操控
+675,tutorial-basic-3a,"RMB — move to position.
+
+Hold G + RMB — reverse move.
+Note: units that cannot fire while moving will ignore enemies along the way.","ПКМ — движение в позицию.
+
+Удерживайте G + ПКМ — движение задним ходом.
+
+Внимание: юниты, которые не могут стрелять на ходу, игнорируют врагов на пути.","右键 — 移动至指定位置。
+
+按住 G + 右键 — 倒退移动。
+注意：无法在移动中开火的单位会无视沿途的敌人。"
+676,tutorial-basic-4,Order Queueing,Очередь приказов,指令队列
+677,tutorial-basic-4a,"To queue orders, hold the ""Shift"" key.
+
+You can also use tactical pause for orders.
+To toggle tactical pause, press the ""Spacebar"".","Очередь приказов задаётся через зажатую клавишу ""Shift"".
+
+Вы также можете отдавать приказы во время тактической паузы.
+Чтобы включить тактическую паузу, нажмите клавишу ""Пробел"".","要排列指令队列，请按住 “Shift” 键。
+
+您也可以在战术暂停中下达指令。
+按 “空格键” 可开关战术暂停。"
+678,tutorial-basic-5,Attack-Move,Атака в движении,攻击移动
+679,tutorial-basic-5a,"To make your forces push through to the specified position without ignoring enemies, use the ""Attack Move"" command.
+
+Press A + left-click on the ground.
+Units will start moving and will attack enemies along the way.","Чтобы войска прорывались в указанную позицию, не игнорируя врагов, используйте приказ ""Атака в движении"".
+
+Нажмите ""А"" + ЛКМ по земле.
+Юниты начнут движение и будут атаковать врагов на пути.","若想让部队一路推进至指定位置且不无视沿途敌人，请使用“攻击移动”指令。
+
+按 A 并左键点击地面。
+部队将开始移动，并攻击沿途的敌人。"
+680,tutorial-basic-6,Focus Fire,Фокусирование атаки,集火
+681,tutorial-basic-6a,"If you need to focus fire on a single enemy target:
+Right-click (without holding ""A"") on the enemy, and all units will attempt to reach and attack that target.","Если вам нужно сконцентрировать огонь по одной вражеской цели:
+Нажмите ПКМ (без зажатой клавиши ""A"") по врагу, и юниты будут стараться добраться до цели и атаковать её.","如果需要集中火力打击单个敌方目标：
+（不按住 “A”）右键点击敌人，所有单位都会设法接近并攻击该目标。"
+682,tutorial-basic-7,Capturing Neutral Buildings,Захват нейтральных построек,占领中立建筑
+683,tutorial-basic-7a,"Infantry can enter and garrison buildings, firing from within. The building's capacity is shown above it. 
+
+This allows for defensive positioning and provides additional vision.","Пехота умеет занимать здания и отстреливаться из них. Над зданием показана вместимость. 
+
+Это позволяет хорошо закрепиться на позиции и получить дополнительный обзор.","步兵可以进入并驻守建筑，从内部向外射击。建筑上方会显示其容纳量。 
+
+这有助于稳固防守，并提供额外的视野。"
+684,tutorial-basic-8,Abilities,Способности,技能
+685,tutorial-basic-8a,"Units and buildings may sometimes have various abilities.
+
+For example, the ""MCV's"" ability allows it to move across the map, enabling construction in remote locations.","У юнитов и зданий иногда могут быть разные способности.
+
+Например, способность ""МСЦ"" позволяет перемещать его по карте, тем самым позволяя строить в отдалённых местах.","单位与建筑有时会拥有不同的技能。
+
+例如，“机动建造车”的技能可让它在地图上机动，从而在偏远位置展开建造。"
+686,tutorial-basic-8b,"You have a global repair ability.
+
+It repairs any of your buildings, as well as captured civilian structures and large units with deployment capability (for example, MCV or Dreadnought).
+
+To use it, press ""B"" and select a target.","У вас есть глобальная способность ремонта.
+
+Она чинит любые ваши здания, а также захваченные гражданские постройки и крупные юниты с возможностью развёртки (например, МСЦ или Дредноут).
+
+Чтобы использовать, нажмите ""B"" и выберите цель.","您拥有一项全局维修技能。
+
+它可以修复您的任何建筑，以及已占领的民用建筑和具备展开能力的大型单位（例如机动建造车或无畏舰）。
+
+使用时按 “B” 并选择目标。"
+687,tutorial-basic-9,"You can always return to this tutorial by clicking this button.
+
+Good luck.","Вы всегда сможете вернуться к этому обучению, нажав на эту кнопку.
+
+Удачи.","您随时可以点击此按钮返回本教程。
+
+祝您好运。"
+688,tutorial-reinforcements-0,Reinforcements,Подкрепления,增援
+689,tutorial-reinforcements-1,"Reinforcements can help you turn the tide of battle.
+Troops will arrive at the designated point.","Подкрепления могут помочь вам переломить сражение.
+Войска прибудут в указанную точку.","增援能帮您扭转战局。
+部队将在指定地点抵达。"

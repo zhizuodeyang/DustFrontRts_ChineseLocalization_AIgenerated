@@ -1,0 +1,13 @@
+# 批处理脚本必须保持 CRLF，否则 Windows 上执行会出错
+*.bat text eol=crlf
+
+# 文本类一律 CRLF（补丁内的 CSV 也是 CRLF）
+*.md   text eol=crlf
+*.csv  text eol=crlf
+*.txt  text eol=crlf
+
+# 二进制，禁止 git 做任何换行转换或 diff
+*.assets binary
+*.png    binary
+*.jpg    binary
+*.zip    binary
